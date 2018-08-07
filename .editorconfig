@@ -10,7 +10,7 @@ insert_final_newline = true
 
 # Matches multiple files with brace expansion notation
 # Set default charset
-[*.{js,py,applescript,.scpt,html,css}]
+[scripts/**.{js,py,applescript,scpt,html,css}]
 charset = utf-16le
 indent_style = tab
 indent_size = 8
