@@ -28,6 +28,6 @@ property Finder : application "Finder"
 
 11.  In my final code reviews, I will try and perform code refactoring that hopefully makes the script more usable with minimal or zero requirement for edits if employed from within different environments, eg. _Automator_, _Keyboard Maestro_, _Alfred_, _FastScripts_, etc.  This is an ongoing endeavour and not necessarily achievable in all my scripts.  Some scripts may have a prefix like `[KM]` in their filename, which might suggest it only works inside _Keyboard Maestro_.  In fact, the significance of this prefix is to denote a script that operates **upon** _Keyboard Maestro_, but needn't be triggered from within _Keyboard Maestro_ (although it would generally make the most sense to do so).  Given this, one may wonder why my scripts that operate **upon** _Finder_ aren't prefixed with `[Finder]` in their filenames.  The simple answer is "just because", but the slightly extended answer is that prefixes annoy me, but this could change.
 
-12. -
+12. ?
 
 13.  I'm always open to suggestions on ways to do things that I might find more useful or meaningful in the longrun, and I am fairly adaptable in my methods given that I don't code professionally.  Therefore, comments, critiques, and tips are welcome, regardless of your own coding proficiency (I dislike unnecessary restrictions that perceived hierarchies can impose on less experienced individuals, and I apologise if I am ever an instrument of these hierarchies, at which time I hope to be made aware so I can change my habits).
