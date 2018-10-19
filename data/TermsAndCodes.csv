@@ -1,0 +1,1715 @@
+Code	Terminology	Kind	Usage	Line
+$scr	scripting additions folder	Property of class: domain	System Events : Disk-Folder-File Suite	1
+%doc	music folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	2
+µdoc	music folder	Enumeration	Standard Additions : File Commands	3
+ƒhlp	help	Enumeration	Standard Additions : File Commands	4
+ƒhlp	help folder	Enumeration	Standard Additions : File Commands	5
+ƒlib	shared libraries	Enumeration	Standard Additions : File Commands	6
+ƒlib	shared libraries folder	Enumeration	Standard Additions : File Commands	7
+ƒmod	modem scripts	Enumeration	Standard Additions : File Commands	8
+ƒmod	modem scripts folder	Enumeration	Standard Additions : File Commands	9
+ƒnet	internet plugins	Enumeration	Standard Additions : File Commands	10
+ƒnet	internet plugins folder	Enumeration	Standard Additions : File Commands	11
+ƒnet	plugins	Enumeration	Standard Additions : File Commands	12
+ƒprd	printer drivers	Enumeration	Standard Additions : File Commands	13
+ƒprd	printer drivers folder	Enumeration	Standard Additions : File Commands	14
+ƒscr	scripting additions	Enumeration	Standard Additions : File Commands	15
+ƒscr	scripting additions folder	Enumeration	Standard Additions : File Commands	16
+≠  	≠	Command	AppleScript Language	17
+*  	*	Command	AppleScript Language	18
+****	anything	Class	AppleScript Language	19
++  	+	Command	AppleScript Language	20
+-  	-	Command	AppleScript Language	21
+/  	÷	Command	AppleScript Language	22
+<  	<	Command	AppleScript Language	23
+<=  	≤	Command	AppleScript Language	24
+=  	=	Command	AppleScript Language	25
+>  	>	Command	AppleScript Language	26
+>=  	≥	Command	AppleScript Language	27
+^  	^	Command	AppleScript Language	28
+abou	about	Parameter of command: Call•subroutine	AppleScript Language	31
+abve	above	Parameter of command: Call•subroutine	AppleScript Language	32
+acha	audio channel count	Property of class: track	System Events : QuickTime File Suite	34
+actT	action	Class	System Events : Processes Suite	43
+actT	actions	Class	System Events : Processes Suite	45
+actv	activate	Command	AppleScript Language	49
+actv	activate	Command	Finder : Standard Suite	50
+addr	from address	Parameter of command: handle CGI request	Standard Additions : Internet Suite	51
+aete	application dictionary	Class	AppleScript Language	54
+aeut	system dictionary	Class	AppleScript Language	55
+afp	afp URL	Enumeration	Standard Additions : Internet Suite	56
+agcp	application "AppName"	Enumeration	Standard Additions : File Commands	60
+agcp	current application	Enumeration	Standard Additions : File Commands	61
+agcp	it	Enumeration	Standard Additions : File Commands	62
+agcp	me	Enumeration	Standard Additions : File Commands	63
+Agnt	from browser	Parameter of command: handle CGI request	Standard Additions : Internet Suite	64
+agst	against	Parameter of command: Call•subroutine	AppleScript Language	65
+alcp	all caps	Enumeration	AppleScript Language	67
+alen	altering line endings	Parameter of command: do shell script	Standard Additions : Miscellaneous Commands	72
+aleR	alert reply	Class	Standard Additions : User Interaction	75
+alia	alias file	Class	Finder : Files	79
+alia	alias files	Class	Finder : Files	80
+alis	alias	Class	AppleScript Language	84
+alis	alias	Class	System Events : Disk-Folder-File Suite	85
+alis	alias	Property of class: file information	Standard Additions : File Commands	86
+alis	aliases	Class	AppleScript Language	87
+alis	aliases	Class	System Events : Disk-Folder-File Suite	88
+alrp	replacing	Parameter of command: duplicate	Finder : Standard Suite	103
+alrp	replacing	Parameter of command: move	Finder : Standard Suite	104
+alst	alias list	Class	Finder : Type Definitions	105
+alvl	alert volume	Parameter of command: set volume	Standard Additions : Miscellaneous Commands	113
+alvl	alert volume	Property of class: volume settings	Standard Additions : Miscellaneous Commands	114
+amnu	apple menu	Enumeration	Standard Additions : File Commands	115
+amnu	apple menu folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	116
+amnu	apple menu items	Enumeration	Standard Additions : File Commands	117
+amnu	apple menu items folder	Enumeration	Standard Additions : File Commands	118
+AND	and	Command	AppleScript Language	119
+anno	annotation	Class	System Events : QuickTime File Suite	122
+anot	full text	Property of class: annotation	System Events : QuickTime File Suite	123
+apnl	Application panel	Enumeration	Finder : Enumerations	126
+appf	application file	Class	Finder : Files	127
+appf	application file	Property of class: application process	Finder : Legacy suite	128
+appf	application file	Property of class: application process	System Events : Processes Suite	129
+appf	application files	Class	Finder : Files	130
+appr	with title	Parameter of command: choose application	Standard Additions : User Interaction	132
+appr	with title	Parameter of command: choose from list	Standard Additions : User Interaction	133
+appr	with title	Parameter of command: choose remote application	Standard Additions : User Interaction	134
+appr	with title	Parameter of command: display dialog	Standard Additions : User Interaction	135
+apps	applications folder	Enumeration	Standard Additions : File Commands	136
+apps	applications folder	Property of class: application	System Events : System Events Suite	137
+apps	applications folder	Property of class: domain	System Events : Disk-Folder-File Suite	138
+apps	At Ease applications	Enumeration	Standard Additions : File Commands	139
+apps	At Ease applications folder	Enumeration	Standard Additions : File Commands	140
+appt	preferred size	Property of class: application file	Finder : Files	141
+appt	total partition size	Property of class: process	Finder : Legacy suite	142
+appt	total partition size	Property of class: process	System Events : Processes Suite	143
+apr	April	Class	AppleScript Language	144
+apre	auto present	Property of class: QuickTime data	System Events : QuickTime File Suite	145
+aprt	apart from	Parameter of command: Call•subroutine	AppleScript Language	146
+aqui	auto quit when done	Property of class: QuickTime data	System Events : QuickTime File Suite	147
+arnd	around	Parameter of command: Call•subroutine	AppleScript Language	149
+as A	as	Parameter of command: display alert	Standard Additions : User Interaction	152
+as  	as	Parameter of command: read	Standard Additions : File Read/Write	153
+as  	as	Parameter of command: write	Standard Additions : File Read/Write	154
+ascd	creation date	Enumeration	Finder : Enumerations	155
+ascd	creation date	Property of class: disk item	System Events : Disk-Folder-File Suite	156
+ascd	creation date	Property of class: file information	Standard Additions : File Commands	157
+ascd	creation date	Property of class: item	Finder : Finder items	158
+ascr	AppleScript	Property of class: application	AppleScript Language	160
+asct	file creator	Property of class: file information	Standard Additions : File Commands	161
+asda	default application	Property of class: file information	Standard Additions : File Commands	162
+asdf	aside from	Parameter of command: Call•subroutine	AppleScript Language	163
+asdr	folder	Property of class: file information	Standard Additions : File Commands	164
+asfe	file information	Class	Standard Additions : File Commands	166
+asfw	folder window	Property of class: file information	Standard Additions : File Commands	168
+asip	icon position	Property of class: file information	Standard Additions : File Commands	169
+ask	ask	Enumeration	AppleScript Language	170
+ask	ask	Enumeration	Cocoa Scripting : Standard Suite	171
+ask	ask	Enumeration	Standard Additions : Scripting Commands	172
+askr	dialog reply	Class	Standard Additions : User Interaction	175
+aslk	locked	Property of class: file information	Standard Additions : File Commands	176
+aslk	locked	Property of class: item	Finder : Finder items	177
+aslv	long version	Property of class: file information	Standard Additions : File Commands	178
+asmo	modification date	Enumeration	Finder : Enumerations	179
+asmo	modification date	Property of class: disk item	System Events : Disk-Folder-File Suite	180
+asmo	modification date	Property of class: file information	Standard Additions : File Commands	181
+asmo	modification date	Property of class: item	Finder : Finder items	182
+asra	audio sample rate	Property of class: track	System Events : QuickTime File Suite	183
+assv	short version	Property of class: file information	Standard Additions : File Commands	187
+assz	audio sample size	Property of class: track	System Events : QuickTime File Suite	188
+asty	file type	Property of class: alias	System Events : Disk-Folder-File Suite	190
+asty	file type	Property of class: file	Finder : Files	192
+asty	file type	Property of class: file	System Events : Disk-Folder-File Suite	193
+asty	file type	Property of class: file information	Standard Additions : File Commands	194
+asty	file type	Property of class: process	Finder : Legacy suite	195
+asty	file type	Property of class: process	System Events : Processes Suite	196
+asup	application support	Enumeration	Standard Additions : File Commands	197
+asup	application support folder	Enumeration	Standard Additions : File Commands	198
+at  	AppleTalk URL	Enumeration	Standard Additions : Internet Suite	202
+at  	at	Parameter of command: Call•subroutine	AppleScript Language	203
+atfa	attach action to	Command	System Events : Folder Actions Suite	204
+atfn	file name	Property of class: attachment	Cocoa Scripting : Text Suite	205
+attr	attribute	Class	System Events : Processes Suite	207
+attr	attributes	Class	System Events : Processes Suite	208
+atts	attachment	Class	Cocoa Scripting : Text Suite	209
+aucd	music CD appeared	Command	Digital Hub OSAX : Digital Hub Actions	214
+audd	audio data	Class	System Events : Audio File Suite	215
+audf	audio file	Class	System Events : Audio File Suite	216
+audf	audio files	Class	System Events : Audio File Suite	217
+audi	audio characteristic	Property of class: track	System Events : QuickTime File Suite	218
+aug	August	Class	AppleScript Language	221
+autp	auto play	Property of class: QuickTime data	System Events : QuickTime File Suite	227
+badm	administrator privileges	Parameter of command: do shell script	Standard Additions : Miscellaneous Commands	241
+bcd	blank CD appeared	Command	Digital Hub OSAX : Digital Hub Actions	242
+bdvd	blank DVD appeared	Command	Digital Hub OSAX : Digital Hub Actions	243
+beep	beep	Command	Standard Additions : User Interaction	246
+begi	begin transaction	Command	System Events : System Events Suite	248
+belw	below	Parameter of command: Call•subroutine	AppleScript Language	253
+bgwt	starts with	Command	AppleScript Language	260
+bhit	button returned	Property of class: alert reply	Standard Additions : User Interaction	262
+bhit	button returned	Property of class: dialog reply	Standard Additions : User Interaction	264
+bkgo	background only	Property of class: process	System Events : Processes Suite	265
+bnid	bundle identifier	Property of class: file information	Standard Additions : File Commands	269
+bnth	beneath	Parameter of command: Call•subroutine	AppleScript Language	270
+bold	bold	Enumeration	AppleScript Language	272
+bool	boolean	Class	AppleScript Language	273
+bool	boolean	Enumeration	Standard Additions : File Read/Write	274
+bool	booleans	Class	AppleScript Language	275
+boot	startup disk	Enumeration	Standard Additions : File Commands	276
+broW	browser	Class	System Events : Processes Suite	298
+broW	browsers	Class	System Events : Processes Suite	300
+brow	Finder window	Class	Finder : Window classes	301
+brow	Finder windows	Class	Finder : Window classes	302
+bsid	beside	Parameter of command: Call•subroutine	AppleScript Language	303
+btns	buttons	Parameter of command: display alert	Standard Additions : User Interaction	305
+btns	buttons	Parameter of command: display dialog	Standard Additions : User Interaction	307
+btwn	between	Parameter of command: Call•subroutine	AppleScript Language	308
+busi	busy indicator	Class	System Events : Processes Suite	311
+busi	busy indicators	Class	System Events : Processes Suite	312
+busy	busy status	Property of class: disk item	System Events : Disk-Folder-File Suite	313
+butT	button	Class	System Events : Processes Suite	318
+butT	buttons	Class	System Events : Processes Suite	320
+by  	by	Parameter of command: Call•subroutine	AppleScript Language	324
+by  	by	Parameter of command: clean up	Finder : Finder items	325
+by  	by	Parameter of command: sort	Finder : Finder Basics	326
+bzst	busy status	Property of class: file information	Standard Additions : File Commands	327
+capa	capacity	Property of class: disk	Finder : Containers and folders	333
+capa	capacity	Property of class: disk	System Events : Disk-Folder-File Suite	334
+capp	app	Class	AppleScript Language	335
+capp	application	Class	AppleScript Language	336
+capp	application	Class	Cocoa Scripting : Standard Suite	338
+capp	application	Class	Finder : Finder Basics	339
+capp	application	Class	Finder : Legacy suite	340
+capp	application	Class	System Events : System Events Suite	341
+capp	applications	Class	AppleScript Language	342
+capp	applications	Class	Cocoa Scripting : Standard Suite	344
+capp	applications	Class	System Events : System Events Suite	345
+case	case	Enumeration	AppleScript Language	346
+case	upper case	Class	AppleScript Language	347
+catr	attribute run	Class	Cocoa Scripting : Text Suite	350
+catr	attribute runs	Class	Cocoa Scripting : Text Suite	351
+cbtn	cancel button	Parameter of command: display alert	Standard Additions : User Interaction	352
+cbtn	cancel button	Parameter of command: display dialog	Standard Additions : User Interaction	353
+ccat	&	Command	AppleScript Language	354
+ccmp	computer-object	Class	Finder : Containers and folders	355
+ccmt	cubic centimeters	Class	AppleScript Language	356
+ccmt	cubic centimetres	Class	AppleScript Language	357
+ccol	column	Class	System Events : Processes Suite	358
+ccol	columns	Class	System Events : Processes Suite	360
+cdis	disk	Class	Finder : Containers and folders	361
+cdis	disk	Class	System Events : Disk-Folder-File Suite	362
+cdis	disk	Property of class: item	Finder : Finder items	363
+cdis	disks	Class	Finder : Containers and folders	364
+cdis	disks	Class	System Events : Disk-Folder-File Suite	365
+cdsk	desktop-object	Class	Finder : Containers and folders	366
+cdta	arranged by creation date	Enumeration	Finder : Enumerations	367
+cent	center	Enumeration	AppleScript Language	382
+cfbn	short name	Property of class: file information	Standard Additions : File Commands	387
+cfet	cubic feet	Class	AppleScript Language	388
+cflo	text flow	Class	AppleScript Language	389
+cflo	text flows	Class	AppleScript Language	390
+cfol	folder	Class	Finder : Containers and folders	391
+cfol	folder	Class	System Events : Disk-Folder-File Suite	392
+cfol	folders	Class	Finder : Containers and folders	393
+cfol	folders	Class	System Events : Disk-Folder-File Suite	394
+cha	character	Class	AppleScript Language	395
+cha	character	Class	Cocoa Scripting : Text Suite	396
+cha	characters	Class	AppleScript Language	397
+cha	characters	Class	Cocoa Scripting : Text Suite	398
+chbx	checkbox	Class	System Events : Processes Suite	401
+chbx	checkboxes	Class	System Events : Processes Suite	402
+chcl	choose color	Command	Standard Additions : User Interaction	403
+chlt	choose from list	Command	Standard Additions : User Interaction	409
+chra	choose remote application	Command	Standard Additions : User Interaction	412
+chur	choose URL	Command	Standard Additions : User Interaction	413
+cinl	Content Index panel	Enumeration	Finder : Enumerations	414
+cins	insertion point	Class	AppleScript Language	415
+cins	insertion points	Class	AppleScript Language	416
+citl	writing code info	Class	AppleScript Language	418
+citl	writing code infos	Class	AppleScript Language	419
+citm	text item	Class	AppleScript Language	420
+citm	text items	Class	AppleScript Language	421
+clbl	label	Class	Finder : Type Definitions	422
+clic	click	Command	System Events : Processes Suite	431
+clin	line	Class	AppleScript Language	434
+clin	lines	Class	AppleScript Language	435
+clon	duplicate	Command	AppleScript Language	440
+clon	duplicate	Command	Cocoa Scripting : Standard Suite	441
+clon	duplicate	Command	Finder : Standard Suite	442
+clos	close	Command	AppleScript Language	445
+clos	close	Command	Cocoa Scripting : Standard Suite	446
+clos	close	Command	Finder : Standard Suite	447
+clos	close access	Command	Standard Additions : File Read/Write	448
+clpf	clipping	Class	Finder : Files	449
+clpf	clippings	Class	Finder : Files	450
+clrt	color table	Class	AppleScript Language	451
+Clsc	opens in Classic	Property of class: application file	Finder : Files	452
+clsc	Classic	Property of class: process	System Events : Processes Suite	453
+clvw	column view	Enumeration	Finder : Enumerations	455
+clwd	width	Property of class: column	Finder : Type Definitions	456
+clwm	maximum width	Property of class: column	Finder : Type Definitions	457
+clwn	minimum width	Property of class: column	Finder : Type Definitions	458
+cmen	menu item	Class	AppleScript Language	459
+cmet	cubic meters	Class	AppleScript Language	460
+cmet	cubic metres	Class	AppleScript Language	461
+cmnt	log	Command	AppleScript Language	462
+cmnu	menu	Class	AppleScript Language	464
+cmtr	centimeters	Class	AppleScript Language	465
+cmtr	centimetres	Class	AppleScript Language	466
+cnbt	cancel button name	Parameter of command: choose from list	Standard Additions : User Interaction	468
+cncl	cancel	Deprecated terminology	System Events : Hidden Suite	469
+cnfm	confirm	Deprecated terminology	System Events : Hidden Suite	470
+cnte	count	Command	AppleScript Language	471
+cnte	count	Command	Cocoa Scripting : Standard Suite	472
+cnte	count	Command	Finder : Standard Suite	473
+cobj	item	Class	AppleScript Language	478
+cobj	item	Class	Cocoa Scripting : Standard Suite	480
+cobj	item	Class	Finder : Finder items	481
+cobj	item	Class	System Events : Disk-Folder-File Suite	482
+cobj	item	Property of class: information window	Finder : Window classes	483
+cobj	items	Class	AppleScript Language	484
+cobj	items	Class	Cocoa Scripting : Standard Suite	485
+cobj	items	Class	Finder : Finder items	486
+cobj	items	Class	System Events : Disk-Folder-File Suite	487
+coer	as	Command	AppleScript Language	490
+colr	background color	Property of class: icon view options	Finder : Type Definitions	498
+colr	color	Class	Cocoa Scripting : Standard Suite	499
+colr	color	Property of class: attribute run	Cocoa Scripting : Text Suite	500
+colr	color	Property of class: character	Cocoa Scripting : Text Suite	501
+colr	color	Property of class: label	Finder : Type Definitions	504
+colr	color	Property of class: paragraph	Cocoa Scripting : Text Suite	505
+colr	color	Property of class: text	AppleScript Language	507
+colr	color	Property of class: text	Cocoa Scripting : Text Suite	508
+colr	color	Property of class: word	Cocoa Scripting : Text Suite	509
+colr	colors	Class	Cocoa Scripting : Standard Suite	510
+colW	color well	Class	System Events : Processes Suite	513
+colW	color wells	Class	System Events : Processes Suite	515
+comB	combo box	Class	System Events : Processes Suite	517
+comB	combo boxes	Class	System Events : Processes Suite	519
+comp	double integer	Class	AppleScript Language	520
+comt	comment	Enumeration	Finder : Enumerations	521
+comt	comment	Property of class: item	Finder : Finder items	522
+cond	condensed	Enumeration	AppleScript Language	525
+cont	contains	Command	AppleScript Language	544
+copy	copy	Command	Finder : Finder Basics	562
+cpar	paragraph	Class	AppleScript Language	566
+cpar	paragraph	Class	Cocoa Scripting : Text Suite	567
+cpar	paragraphs	Class	AppleScript Language	568
+cpar	paragraphs	Class	Cocoa Scripting : Text Suite	569
+cpkg	file package	Class	System Events : Disk-Folder-File Suite	570
+cpkg	file packages	Class	System Events : Disk-Folder-File Suite	571
+cpls	scripting components	Command	Standard Additions : Scripting Commands	572
+cpnl	Comments panel	Enumeration	Finder : Enumerations	573
+cprf	preferences	Class	Finder : Type Definitions	574
+crel	make	Command	AppleScript Language	575
+crel	make	Command	Cocoa Scripting : Standard Suite	576
+crel	make	Command	Finder : Standard Suite	577
+crfl	folder creation	Parameter of command: path to	Standard Additions : File Commands	578
+cRGB	RGB color	Class	AppleScript Language	579
+cRGB	RGB colors	Class	AppleScript Language	580
+criT	critical	Enumeration	Standard Additions : User Interaction	582
+crow	row	Class	System Events : Processes Suite	583
+crow	rows	Class	System Events : Processes Suite	584
+csel	selection-object	Class	AppleScript Language	585
+cstr	C string	Class	AppleScript Language	586
+cstr	C strings	Class	AppleScript Language	587
+ctnr	container	Class	Finder : Containers and folders	588
+ctnr	container	Property of class: disk item	System Events : Disk-Folder-File Suite	589
+ctnr	container	Property of class: item	Finder : Finder items	590
+ctnr	containers	Class	Finder : Containers and folders	591
+cton	ASCII number	Command	Standard Additions : String Commands	592
+ctrl	control panels	Enumeration	Standard Additions : File Commands	593
+ctrl	control panels folder	Enumeration	Standard Additions : File Commands	594
+ctrl	control panels folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	595
+ctrs	trash-object	Class	Finder : Containers and folders	596
+ctxt	text	Class	AppleScript Language	598
+ctxt	text	Class	Cocoa Scripting : Text Suite	599
+ctxt	text	Property of class: XML data	System Events : XML Suite	600
+ctyp	of content type	Parameter of command: handle CGI request	Standard Additions : Internet Suite	601
+cuin	cubic inches	Class	AppleScript Language	603
+cura	current application	Enumeration	AppleScript Language	606
+curd	current date	Command	Standard Additions : Miscellaneous Commands	610
+curu	current user	Property of class: application	System Events : System Events Suite	614
+cusr	current user folder	Enumeration	Standard Additions : File Commands	615
+cusr	home folder	Enumeration	Standard Additions : File Commands	616
+cusr	home folder	Property of class: application	System Events : System Events Suite	617
+cusr	home folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	618
+cust	current	Enumeration	System Events : QuickTime File Suite	619
+cusv	showing	Parameter of command: choose URL	Standard Additions : User Interaction	620
+cvop	column view options	Class	Finder : Type Definitions	622
+cvop	column view options	Property of class: Finder window	Finder : Window classes	623
+cvop	column view options	Property of class: preferences	Finder : Type Definitions	624
+cwin	window	Class	AppleScript Language	625
+cwin	window	Class	Cocoa Scripting : Standard Suite	627
+cwin	window	Class	Finder : Window classes	628
+cwin	window	Class	System Events : Processes Suite	629
+cwin	window	Property of class: preferences	Finder : Type Definitions	631
+cwin	windows	Class	AppleScript Language	633
+cwin	windows	Class	Cocoa Scripting : Standard Suite	635
+cwin	windows	Class	Finder : Window classes	636
+cwin	windows	Class	System Events : Processes Suite	637
+cwnd	container window	Property of class: container	Finder : Containers and folders	638
+cwor	word	Class	AppleScript Language	639
+cwor	word	Class	Cocoa Scripting : Text Suite	640
+cwor	words	Class	AppleScript Language	641
+cwor	words	Class	Cocoa Scripting : Text Suite	642
+cyrd	cubic yards	Class	AppleScript Language	643
+dafi	desk accessory file	Property of class: desk accessory process	Finder : Legacy suite	644
+dafi	desk accessory file	Property of class: desk accessory process	System Events : Processes Suite	645
+data	to	Parameter of command: set	Cocoa Scripting : Standard Suite	646
+data	with data	Parameter of command: make	AppleScript Language	647
+data	with data	Parameter of command: make	Cocoa Scripting : Standard Suite	648
+day	day	Property of class: date	AppleScript Language	664
+days	days	Property of class: application	AppleScript Language	665
+dcol	default color	Parameter of command: choose color	Standard Additions : User Interaction	666
+ddra	data rate	Property of class: track	System Events : QuickTime File Suite	667
+dec	December	Class	AppleScript Language	669
+decr	decrement	Deprecated terminology	System Events : Hidden Suite	670
+degc	degrees Celsius	Class	AppleScript Language	681
+degf	degrees Fahrenheit	Class	AppleScript Language	682
+degk	degrees Kelvin	Class	AppleScript Language	683
+dela	delay	Command	Standard Additions : User Interaction	684
+dela	delay before springing	Property of class: preferences	Finder : Type Definitions	685
+deli	using delimiter	Parameter of command: read	Standard Additions : File Read/Write	686
+deli	using delimiters	Parameter of command: read	Standard Additions : File Read/Write	687
+delo	delete	Command	AppleScript Language	688
+delo	delete	Command	Cocoa Scripting : Standard Suite	689
+delo	delete	Command	Finder : Standard Suite	690
+delo	delete	Command	System Events : Disk-Folder-File Suite	691
+desc	description	Property of class: action	System Events : Processes Suite	696
+desc	description	Property of class: UI element	System Events : Processes Suite	697
+desk	desktop	Enumeration	Standard Additions : File Commands	699
+desk	desktop	Property of class: application	Finder : Finder Basics	700
+desk	desktop folder	Enumeration	Standard Additions : File Commands	701
+desk	desktop folder	Property of class: application	System Events : System Events Suite	702
+desk	desktop folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	703
+desk	desktop folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	704
+df$$	unknown format	Enumeration	System Events : Disk-Folder-File Suite	707
+df96	ISO 9660 format	Enumeration	Finder : Enumerations	708
+df96	ISO 9660 format	Enumeration	System Events : Disk-Folder-File Suite	709
+df??	unknown format	Enumeration	Finder : Enumerations	710
+dfac	Xsan format	Enumeration	Finder : Enumerations	711
+dfas	AppleShare format	Enumeration	Finder : Enumerations	712
+dfas	AppleShare format	Enumeration	System Events : Disk-Folder-File Suite	713
+dfau	audio format	Enumeration	Finder : Enumerations	714
+dfau	audio format	Enumeration	System Events : Disk-Folder-File Suite	715
+dfft	FTP format	Enumeration	Finder : Enumerations	716
+dfh+	Mac OS Extended format	Enumeration	Finder : Enumerations	717
+dfh+	Mac OS Extended format	Enumeration	System Events : Disk-Folder-File Suite	718
+dfhf	Mac OS format	Enumeration	Finder : Enumerations	719
+dfhf	Mac OS format	Enumeration	System Events : Disk-Folder-File Suite	720
+dfhs	High Sierra format	Enumeration	Finder : Enumerations	721
+dfhs	High Sierra format	Enumeration	System Events : Disk-Folder-File Suite	722
+dflc	default location	Parameter of command: choose file	Standard Additions : User Interaction	723
+dflc	default location	Parameter of command: choose file name	Standard Additions : User Interaction	724
+dflc	default location	Parameter of command: choose folder	Standard Additions : User Interaction	725
+dflt	default button	Parameter of command: display alert	Standard Additions : User Interaction	726
+dflt	default button	Parameter of command: display dialog	Standard Additions : User Interaction	728
+dfms	MS-DOS format	Enumeration	Finder : Enumerations	729
+dfms	MS-DOS format	Enumeration	System Events : Disk-Folder-File Suite	730
+dfmt	format	Property of class: disk	Finder : Containers and folders	731
+dfmt	format	Property of class: disk	System Events : Disk-Folder-File Suite	732
+dfnf	NFS format	Enumeration	Finder : Enumerations	733
+dfnf	NFS format	Enumeration	System Events : Disk-Folder-File Suite	734
+dfnm	default name	Parameter of command: choose file name	Standard Additions : User Interaction	735
+dfnt	NTFS format	Enumeration	Finder : Enumerations	736
+dfph	Apple Photo format	Enumeration	Finder : Enumerations	737
+dfph	Apple Photo format	Enumeration	System Events : Disk-Folder-File Suite	738
+dfpr	ProDOS format	Enumeration	Finder : Enumerations	739
+dfpr	ProDOS format	Enumeration	System Events : Disk-Folder-File Suite	740
+dfpu	Packet-written UDF format	Enumeration	Finder : Enumerations	741
+dfqt	QuickTake format	Enumeration	Finder : Enumerations	742
+dfqt	QuickTake format	Enumeration	System Events : Disk-Folder-File Suite	743
+dfud	UDF format	Enumeration	Finder : Enumerations	744
+dfud	UDF format	Enumeration	System Events : Disk-Folder-File Suite	745
+dfuf	UFS format	Enumeration	Finder : Enumerations	746
+dfuf	UFS format	Enumeration	System Events : Disk-Folder-File Suite	747
+dfwd	WebDAV format	Enumeration	Finder : Enumerations	748
+dfwd	WebDAV format	Enumeration	System Events : Disk-Folder-File Suite	749
+diac	diacriticals	Enumeration	AppleScript Language	750
+DIRE	from virtual host	Parameter of command: handle CGI request	Standard Additions : Internet Suite	754
+dire	rounding	Parameter of command: round	Standard Additions : Miscellaneous Commands	755
+disA	display alert	Command	Standard Additions : User Interaction	757
+DISP	displaying	Parameter of command: say	Standard Additions : User Interaction	761
+disp	with icon	Parameter of command: display dialog	Standard Additions : User Interaction	764
+ditm	disk item	Class	System Events : Disk-Folder-File Suite	766
+ditm	disk items	Class	System Events : Disk-Folder-File Suite	767
+div	div	Command	AppleScript Language	768
+dktw	desktop window	Class	Finder : Window classes	769
+dlib	library folder	Enumeration	Standard Additions : File Commands	770
+dlog	display dialog	Command	Standard Additions : User Interaction	772
+dnam	displayed name	Property of class: disk item	System Events : Disk-Folder-File Suite	773
+dnam	displayed name	Property of class: file information	Standard Additions : File Commands	774
+dnam	displayed name	Property of class: item	Finder : Finder items	775
+dnam	displayed name	Property of class: process	System Events : Processes Suite	776
+docf	document file	Class	Finder : Files	778
+docf	document files	Class	Finder : Files	779
+docs	At Ease documents	Enumeration	Standard Additions : File Commands	781
+docs	At Ease documents folder	Enumeration	Standard Additions : File Commands	782
+docs	documents folder	Enumeration	Standard Additions : File Commands	783
+docs	documents folder	Property of class: application	System Events : System Events Suite	784
+docs	documents folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	785
+docu	document	Class	AppleScript Language	786
+docu	document	Class	Cocoa Scripting : Standard Suite	788
+docu	document	Property of class: window	Cocoa Scripting : Standard Suite	789
+docu	documents	Class	AppleScript Language	790
+docu	documents	Class	Cocoa Scripting : Standard Suite	792
+doex	exists	Command	AppleScript Language	795
+doex	exists	Command	Cocoa Scripting : Standard Suite	796
+doex	exists	Command	Finder : Standard Suite	797
+doma	domain	Class	System Events : Disk-Folder-File Suite	798
+doma	domains	Class	System Events : Disk-Folder-File Suite	799
+domc	Classic domain object	Class	System Events : Disk-Folder-File Suite	800
+domc	Classic domain objects	Class	System Events : Disk-Folder-File Suite	801
+doml	local domain object	Class	System Events : Disk-Folder-File Suite	802
+doml	local domain objects	Class	System Events : Disk-Folder-File Suite	803
+domn	network domain object	Class	System Events : Disk-Folder-File Suite	804
+domn	network domain objects	Class	System Events : Disk-Folder-File Suite	805
+doms	system domain object	Class	System Events : Disk-Folder-File Suite	806
+doms	system domain objects	Class	System Events : Disk-Folder-File Suite	807
+domu	user domain object	Class	System Events : Disk-Folder-File Suite	808
+domu	user domain objects	Class	System Events : Disk-Folder-File Suite	809
+dosc	do script	Command	System Events : Hidden Suite	811
+doub	double	Enumeration	System Events : QuickTime File Suite	812
+doub	real	Class	AppleScript Language	813
+doub	reals	Class	AppleScript Language	814
+dpic	desktop picture	Property of class: application	Finder : Legacy suite	818
+dpos	desktop position	Property of class: item	Finder : Finder items	819
+draA	drawer	Class	System Events : Processes Suite	821
+draA	drawers	Class	System Events : Processes Suite	823
+dscr	description	Property of class: item	Finder : Finder items	865
+dsct	run script	Command	Standard Additions : Scripting Commands	866
+dsiz	data size	Command	AppleScript Language	867
+dsiz	data size	Command	Finder : Standard Suite	868
+dsiz	data size	Property of class: QuickTime data	System Events : QuickTime File Suite	869
+dsiz	data size	Property of class: track	System Events : QuickTime File Suite	870
+dspr	discloses preview pane	Property of class: column view options	Finder : Type Definitions	871
+dstr	date string	Property of class: date	AppleScript Language	872
+dtp$	desktop pictures folder	Property of class: domain	System Events : Disk-Folder-File Suite	874
+dtpƒ	desktop pictures folder	Enumeration	Standard Additions : File Commands	875
+dtpQ	desktop pictures folder	Property of class: application	System Events : System Events Suite	876
+dtxt	default answer	Parameter of command: display dialog	Standard Additions : User Interaction	878
+durn	duration	Property of class: QuickTime data	System Events : QuickTime File Suite	879
+durn	duration	Property of class: track	System Events : QuickTime File Suite	880
+eatt	AppleTalk	Enumeration	Standard Additions : User Interaction	882
+eCmd	command	Enumeration	System Events : Processes Suite	884
+eCnt	control	Enumeration	System Events : Processes Suite	885
+ects	entire contents	Property of class: container	Finder : Containers and folders	886
+ects	entire contents	Property of class: UI element	System Events : Processes Suite	887
+edfa	edit action of	Command	System Events : Folder Actions Suite	891
+egfp	frontmost application	Enumeration	Standard Additions : File Commands	902
+eipt	IP	Enumeration	Standard Additions : User Interaction	903
+ejct	eject	Command	Finder : Finder items	904
+elin	type element info	Class	AppleScript Language	905
+elsC	comment column	Enumeration	Finder : Enumerations	906
+elsc	creation date column	Enumeration	Finder : Enumerations	907
+elsk	kind column	Enumeration	Finder : Enumerations	908
+elsl	label column	Enumeration	Finder : Enumerations	909
+elsm	modification date column	Enumeration	Finder : Enumerations	910
+elsn	name column	Enumeration	Finder : Enumerations	911
+elss	size column	Enumeration	Finder : Enumerations	912
+elsv	version column	Enumeration	Finder : Enumerations	913
+empL	empty selection allowed	Parameter of command: choose from list	Standard Additions : User Interaction	914
+empt	empty	Command	Finder : Finder items	915
+empz	startup	Enumeration	Standard Additions : File Commands	916
+empz	startup items	Enumeration	Standard Additions : File Commands	917
+empz	startup items folder	Enumeration	Standard Additions : File Commands	918
+empz	startup items folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	919
+enaB	enabled	Property of class: folder action	System Events : Folder Actions Suite	922
+enaB	enabled	Property of class: script	System Events : Folder Actions Suite	925
+enaB	enabled	Property of class: UI element	System Events : Processes Suite	927
+enbl	enabled	Property of class: track	System Events : QuickTime File Suite	928
+encs	encoded string	Class	AppleScript Language	929
+encs	encoded strings	Class	AppleScript Language	930
+ends	ends with	Command	AppleScript Language	933
+endt	end transaction	Command	System Events : System Events Suite	934
+enum	constant	Class	AppleScript Language	937
+enum	constants	Class	AppleScript Language	938
+eof	eof	Enumeration	Standard Additions : File Read/Write	939
+eOpt	option	Enumeration	System Events : Processes Suite	940
+eppc	remote application URL	Enumeration	Standard Additions : Internet Suite	941
+EPS	PostScript picture	Class	AppleScript Language	942
+erob	from	Parameter of command: error	AppleScript Language	943
+err	error	Command	AppleScript Language	944
+errn	number	Parameter of command: error	AppleScript Language	945
+errr	error reporting	Parameter of command: open location	Standard Additions : Internet Suite	947
+errt	to	Parameter of command: error	AppleScript Language	948
+eSft	shift	Enumeration	System Events : Processes Suite	949
+esva	File servers	Enumeration	Standard Additions : User Interaction	950
+esvd	Directory services	Enumeration	Standard Additions : User Interaction	951
+esve	Remote applications	Enumeration	Standard Additions : User Interaction	952
+esvf	FTP Servers	Enumeration	Standard Additions : User Interaction	953
+esvm	Media servers	Enumeration	Standard Additions : User Interaction	954
+esvn	News servers	Enumeration	Standard Additions : User Interaction	955
+esvt	Telnet hosts	Enumeration	Standard Additions : User Interaction	956
+esvw	Web servers	Enumeration	Standard Additions : User Interaction	957
+evin	type event info	Class	AppleScript Language	975
+evnt	event	Class	AppleScript Language	976
+evnt	events	Class	AppleScript Language	977
+exec	do shell script	Command	Standard Additions : Miscellaneous Commands	978
+expa	expansion	Enumeration	AppleScript Language	981
+exte	extended real	Class	AppleScript Language	983
+extn	extensions	Enumeration	Standard Additions : File Commands	985
+extn	extensions folder	Enumeration	Standard Additions : File Commands	986
+extn	name extension	Property of class: disk item	System Events : Disk-Folder-File Suite	987
+extz	extensions folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	988
+faal	using	Parameter of command: attach action to	System Events : Folder Actions Suite	989
+faal	using	Parameter of command: key code	System Events : Processes Suite	990
+faal	using	Parameter of command: keystroke	System Events : Processes Suite	991
+faen	folder actions enabled	Property of class: application	System Events : System Events Suite	992
+fals	false	Enumeration	AppleScript Language	993
+fasf	Folder Action scripts	Enumeration	Standard Additions : File Commands	994
+fasf	Folder Action scripts folder	Enumeration	Standard Additions : File Commands	995
+fasf	Folder Action scripts folder	Property of class: application	System Events : System Events Suite	996
+fasf	Folder Action scripts folder	Property of class: domain	System Events : Disk-Folder-File Suite	997
+favs	favorites folder	Enumeration	Standard Additions : File Commands	998
+favs	favorites folder	Property of class: application	System Events : System Events Suite	999
+favs	favorites folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	1000
+faxn	fax number	Property of class: print settings	Cocoa Scripting : Type Definitions	1001
+fclo	closing folder window for	Command	Standard Additions : Folder Actions	1002
+fclu	clean up	Command	Finder : Finder items	1003
+fcrt	creator type	Property of class: alias	System Events : Disk-Folder-File Suite	1004
+fcrt	creator type	Property of class: file	Finder : Files	1005
+fcrt	creator type	Property of class: file	System Events : Disk-Folder-File Suite	1006
+fcrt	creator type	Property of class: process	Finder : Legacy suite	1007
+fcrt	creator type	Property of class: process	System Events : Processes Suite	1008
+feb	February	Class	AppleScript Language	1009
+feet	feet	Class	AppleScript Language	1010
+fera	erase	Command	Finder : Finder items	1011
+ffav	add to favorites	Command	Finder : Finder items	1012
+ffdr	path to	Command	Standard Additions : File Commands	1013
+ffnd	find	Command	Finder : Finder Basics	1014
+fget	adding folder items to	Command	Standard Additions : Folder Actions	1015
+file	file	Class	AppleScript Language	1017
+file	file	Class	Finder : Files	1018
+file	file	Class	System Events : Disk-Folder-File Suite	1019
+file	file	Property of class: process	Finder : Legacy suite	1020
+file	file	Property of class: process	System Events : Processes Suite	1021
+file	file URL (obsolete)	Enumeration	Standard Additions : Internet Suite	1022
+file	files	Class	AppleScript Language	1023
+file	files	Class	Finder : Files	1024
+file	files	Class	System Events : Disk-Folder-File Suite	1025
+fits	screen	Enumeration	System Events : QuickTime File Suite	1032
+fixd	fixed	Class	AppleScript Language	1034
+fldc	Classic domain	Enumeration	Standard Additions : File Commands	1036
+fldc	Classic domain	Property of class: application	System Events : System Events Suite	1037
+fldl	local domain	Enumeration	Standard Additions : File Commands	1038
+fldl	local domain	Property of class: application	System Events : System Events Suite	1039
+fldn	network domain	Enumeration	Standard Additions : File Commands	1040
+fldn	network domain	Property of class: application	System Events : System Events Suite	1041
+flds	system domain	Enumeration	Standard Additions : File Commands	1042
+flds	system domain	Property of class: application	System Events : System Events Suite	1043
+fldu	user domain	Enumeration	Standard Additions : File Commands	1044
+fldu	user domain	Property of class: application	System Events : System Events Suite	1045
+flos	removing folder items from	Command	Standard Additions : Folder Actions	1047
+flow	workflows folder	Enumeration	Standard Additions : File Commands	1050
+flst	after losing	Parameter of command: removing folder items from	Standard Additions : Folder Actions	1051
+flst	after receiving	Parameter of command: adding folder items to	Standard Additions : Folder Actions	1052
+fltp	as	Parameter of command: save	AppleScript Language	1053
+fltp	as	Parameter of command: save	Cocoa Scripting : Standard Suite	1054
+fnam	full name	Property of class: user	System Events : Accounts Suite	1055
+fnsz	from	Parameter of command: moving folder window for	Standard Additions : Folder Actions	1056
+foac	folder action	Class	System Events : Folder Actions Suite	1059
+foac	folder actions	Class	System Events : Folder Actions Suite	1060
+focu	focused	Property of class: UI element	System Events : Processes Suite	1061
+font	font	Property of class: attribute run	Cocoa Scripting : Text Suite	1071
+font	font	Property of class: character	Cocoa Scripting : Text Suite	1072
+font	font	Property of class: paragraph	Cocoa Scripting : Text Suite	1073
+font	font	Property of class: text	AppleScript Language	1074
+font	font	Property of class: text	Cocoa Scripting : Text Suite	1075
+font	font	Property of class: word	Cocoa Scripting : Text Suite	1076
+font	fonts	Enumeration	Standard Additions : File Commands	1077
+font	fonts folder	Enumeration	Standard Additions : File Commands	1078
+font	fonts folder	Property of class: application	System Events : System Events Suite	1079
+font	fonts folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	1080
+font	fonts folder	Property of class: domain	System Events : Disk-Folder-File Suite	1081
+fopn	opening folder	Command	Standard Additions : Folder Actions	1082
+for	for	Parameter of command: Call•subroutine	AppleScript Language	1083
+for	for	Parameter of command: clipboard info	Standard Additions : Clipboard Commands	1084
+fpnt	fixed point	Class	AppleScript Language	1090
+fpth	in	Parameter of command: store script	Standard Additions : Scripting Commands	1091
+frct	fixed rectangle	Class	AppleScript Language	1093
+fri	Friday	Class	AppleScript Language	1094
+frmu	with user info	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1095
+from	from	Parameter of command: Call•subroutine	AppleScript Language	1096
+from	from	Parameter of command: path to	Standard Additions : File Commands	1097
+from	from	Parameter of command: random number	Standard Additions : Miscellaneous Commands	1098
+froT	from table	Parameter of command: localized string	Standard Additions : String Commands	1101
+frsp	free space	Property of class: disk	Finder : Containers and folders	1102
+frsp	free space	Property of class: disk	System Events : Disk-Folder-File Suite	1103
+fsiz	moving folder window for	Command	Standard Additions : Folder Actions	1104
+fsiz	text size	Property of class: column view options	Finder : Type Definitions	1105
+fsiz	text size	Property of class: icon view options	Finder : Type Definitions	1106
+fsiz	text size	Property of class: list view options	Finder : Type Definitions	1107
+fss	file specification	Class	AppleScript Language	1108
+fss	file specifications	Class	AppleScript Language	1109
+ftp	FTP item	Class	Standard Additions : Internet Suite	1110
+ftp	FTP items	Class	Standard Additions : Internet Suite	1111
+ftp	ftp URL	Enumeration	Standard Additions : Internet Suite	1112
+FTPc	path	Property of class: URL	Standard Additions : Internet Suite	1113
+ftyp	of type	Parameter of command: choose file	Standard Additions : User Interaction	1114
+full	full	Enumeration	AppleScript Language	1115
+fupd	update	Command	Finder : Finder items	1117
+fvoc	voices	Enumeration	Standard Additions : File Commands	1118
+fvoc	voices folder	Enumeration	Standard Additions : File Commands	1119
+fvtg	target	Property of class: Finder window	Finder : Window classes	1120
+galn	gallons	Class	AppleScript Language	1121
+gavu	gave up	Property of class: alert reply	Standard Additions : User Interaction	1122
+gavu	gave up	Property of class: dialog reply	Standard Additions : User Interaction	1124
+gcli	type class info	Class	AppleScript Language	1125
+gClp	the clipboard	Command	Standard Additions : Clipboard Commands	1126
+geof	get eof	Command	Standard Additions : File Read/Write	1128
+getd	get	Command	Cocoa Scripting : Standard Suite	1129
+GIFf	GIF picture	Class	AppleScript Language	1130
+givn	given	Parameter of command: Call•subroutine	AppleScript Language	1131
+givu	giving up after	Parameter of command: display alert	Standard Additions : User Interaction	1132
+givu	giving up after	Parameter of command: display dialog	Standard Additions : User Interaction	1134
+GMT	time to GMT	Command	Standard Additions : Miscellaneous Commands	1135
+gphr	gopher URL	Enumeration	Standard Additions : Internet Suite	1137
+gpnl	General Information panel	Enumeration	Finder : Enumerations	1138
+gppr	group privileges	Property of class: item	Finder : Finder items	1139
+gram	grams	Class	AppleScript Language	1141
+grda	snap to grid	Enumeration	Finder : Enumerations	1146
+grow	grow area	Class	System Events : Processes Suite	1150
+grow	grow areas	Class	System Events : Processes Suite	1151
+grvw	group view	Enumeration	Finder : Enumerations	1152
+gstl	computer	Deprecated terminology	Standard Additions : Hidden definitions	1153
+gstl	system attribute	Command	Standard Additions : Miscellaneous Commands	1154
+gstp	everyones privileges	Property of class: item	Finder : Finder items	1155
+gtei	event info	Command	AppleScript Language	1156
+gtsi	suite info	Command	AppleScript Language	1157
+gtvl	get volume settings	Command	Standard Additions : Miscellaneous Commands	1158
+GURL	open location	Command	Standard Additions : Internet Suite	1159
+half	half	Enumeration	System Events : QuickTime File Suite	1163
+hand	handler	Class	AppleScript Language	1164
+hand	handlers	Class	AppleScript Language	1165
+has	has	Parameter of command: system attribute	Standard Additions : Miscellaneous Commands	1167
+hclb	closeable	Property of class: window	AppleScript Language	1174
+hclb	closeable	Property of class: window	Cocoa Scripting : Standard Suite	1176
+hclb	closeable	Property of class: window	Finder : Window classes	1177
+help	help	Property of class: UI element	System Events : Processes Suite	1180
+hidn	hidden	Enumeration	AppleScript Language	1183
+hidn	hidden	Property of class: login item	System Events : Login Items Suite	1184
+hidx	extension hidden	Property of class: file information	Standard Additions : File Commands	1185
+hidx	extension hidden	Property of class: item	Finder : Finder items	1186
+home	home	Property of class: application	Finder : Finder Basics	1194
+home	home directory	Property of class: system information	Standard Additions : Miscellaneous Commands	1195
+home	home directory	Property of class: user	System Events : Accounts Suite	1196
+HOST	host	Property of class: URL	Standard Additions : Internet Suite	1201
+hour	hours	Property of class: application	AppleScript Language	1202
+hour	hours	Property of class: date	AppleScript Language	1203
+hqua	high quality	Property of class: track	System Events : QuickTime File Suite	1205
+href	href	Property of class: QuickTime data	System Events : QuickTime File Suite	1206
+href	href	Property of class: track	System Events : QuickTime File Suite	1207
+hscr	has scripting terminology	Property of class: application file	Finder : Files	1209
+hscr	has scripting terminology	Property of class: process	Finder : Legacy suite	1210
+hscr	has scripting terminology	Property of class: process	System Events : Processes Suite	1211
+html	web page	Class	Standard Additions : Internet Suite	1212
+html	web pages	Class	Standard Additions : Internet Suite	1213
+htps	secure http URL	Enumeration	Standard Additions : Internet Suite	1214
+http	http URL	Enumeration	Standard Additions : Internet Suite	1215
+htxt	hidden answer	Parameter of command: display dialog	Standard Additions : User Interaction	1216
+hyph	hyphens	Enumeration	AppleScript Language	1218
+iarr	arrangement	Property of class: icon view options	Finder : Type Definitions	1220
+ibkg	background picture	Property of class: icon view options	Finder : Type Definitions	1221
+icl4	large 4 bit icon	Property of class: icon family	Finder : Type Definitions	1223
+icl8	large 8 bit icon	Property of class: icon family	Finder : Type Definitions	1224
+iClp	clipboard info	Command	Standard Additions : Clipboard Commands	1225
+ICN#	large monochrome icon and mask	Property of class: icon family	Finder : Type Definitions	1226
+icnv	icon view	Enumeration	Finder : Enumerations	1227
+icop	icon view options	Class	Finder : Type Definitions	1229
+icop	icon view options	Property of class: Finder window	Finder : Window classes	1230
+icop	icon view options	Property of class: preferences	Finder : Type Definitions	1231
+ics#	small monochrome icon and mask	Property of class: icon family	Finder : Type Definitions	1232
+ics4	small 4 bit icon	Property of class: icon family	Finder : Type Definitions	1233
+ics8	small 8 bit icon	Property of class: icon family	Finder : Type Definitions	1234
+ics8	small 8 bit mask	Property of class: icon family	Finder : Type Definitions	1235
+ID  	id	Enumeration	AppleScript Language	1236
+ID  	id	Property of class: annotation	System Events : QuickTime File Suite	1237
+ID  	id	Property of class: disk item	System Events : Disk-Folder-File Suite	1238
+ID  	id	Property of class: domain	System Events : Disk-Folder-File Suite	1239
+ID  	id	Property of class: item	AppleScript Language	1240
+ID  	id	Property of class: item	System Events : Disk-Folder-File Suite	1242
+ID  	id	Property of class: process	System Events : Processes Suite	1243
+ID  	id	Property of class: window	Cocoa Scripting : Standard Suite	1244
+ID  	id	Property of class: window	Finder : Window classes	1245
+idle	idle	Command	AppleScript Language	1250
+idux	unix id	Property of class: process	System Events : Processes Suite	1252
+ifam	icon family	Class	Finder : Type Definitions	1254
+igpr	ignore privileges	Property of class: disk	Finder : Containers and folders	1256
+igpr	ignore privileges	Property of class: disk	System Events : Disk-Folder-File Suite	1257
+iimg	icon	Property of class: item	Finder : Finder items	1258
+il32	large 32 bit icon	Property of class: icon family	Finder : Type Definitions	1259
+iloc	location	Property of class: internet location file	Finder : Files	1260
+imaA	image	Class	System Events : Processes Suite	1262
+imaA	images	Class	System Events : Processes Suite	1271
+imap	mailbox access URL	Enumeration	Standard Additions : Internet Suite	1288
+imod	modified	Property of class: document	AppleScript Language	1301
+imod	modified	Property of class: document	Cocoa Scripting : Standard Suite	1303
+in B	in bundle	Parameter of command: localized string	Standard Additions : String Commands	1309
+in B	in bundle	Parameter of command: path to resource	Standard Additions : File Commands	1310
+in D	in directory	Parameter of command: path to resource	Standard Additions : File Commands	1315
+in  	in	Parameter of command: summarize	Standard Additions : String Commands	1316
+incE	increment	Deprecated terminology	System Events : Hidden Suite	1318
+inch	inches	Class	AppleScript Language	1319
+incr	incrementor	Class	System Events : Processes Suite	1320
+incr	incrementors	Class	System Events : Processes Suite	1321
+indx	index	Enumeration	AppleScript Language	1324
+indx	using action number	Parameter of command: edit action of	System Events : Folder Actions Suite	1325
+indx	using action number	Parameter of command: remove action from	System Events : Folder Actions Suite	1326
+infA	informational	Enumeration	Standard Additions : User Interaction	1328
+inlf	internet location file	Class	Finder : Files	1330
+inlf	internet location files	Class	Finder : Files	1331
+insh	at	Parameter of command: click	System Events : Processes Suite	1333
+insh	at	Parameter of command: make	AppleScript Language	1334
+insh	at	Parameter of command: make	Cocoa Scripting : Standard Suite	1335
+insh	at	Parameter of command: make	Finder : Standard Suite	1336
+insh	to	Parameter of command: duplicate	AppleScript Language	1337
+insh	to	Parameter of command: duplicate	Cocoa Scripting : Standard Suite	1338
+insh	to	Parameter of command: duplicate	Finder : Standard Suite	1339
+insh	to	Parameter of command: move	AppleScript Language	1340
+insh	to	Parameter of command: move	Cocoa Scripting : Standard Suite	1341
+insh	to	Parameter of command: move	Finder : Standard Suite	1342
+insh	to	Parameter of command: move	System Events : Disk-Folder-File Suite	1343
+inSL	default items	Parameter of command: choose from list	Standard Additions : User Interaction	1344
+insl	location reference	Class	AppleScript Language	1345
+into	into	Parameter of command: Call•subroutine	AppleScript Language	1346
+invl	input volume	Parameter of command: set volume	Standard Additions : Miscellaneous Commands	1352
+invl	input volume	Property of class: volume settings	Standard Additions : Miscellaneous Commands	1353
+IPAD	Internet address	Class	Standard Additions : Internet Suite	1355
+IPAD	Internet addresses	Class	Standard Additions : Internet Suite	1356
+is32	small 32 bit icon	Property of class: icon family	Finder : Type Definitions	1357
+isab	accepts high level events	Property of class: application file	Finder : Files	1358
+isab	accepts high level events	Property of class: process	Finder : Legacy suite	1359
+isab	accepts high level events	Property of class: process	System Events : Processes Suite	1360
+isej	ejectable	Property of class: disk	Finder : Containers and folders	1361
+isej	ejectable	Property of class: disk	System Events : Disk-Folder-File Suite	1362
+isfl	floating	Property of class: window	AppleScript Language	1364
+isfl	floating	Property of class: window	Cocoa Scripting : Standard Suite	1366
+isfl	floating	Property of class: window	Finder : Window classes	1367
+ismn	miniaturizable	Property of class: window	Cocoa Scripting : Standard Suite	1369
+ispk	package folder	Property of class: file information	Standard Additions : File Commands	1370
+isrv	local volume	Property of class: disk	Finder : Containers and folders	1371
+isrv	local volume	Property of class: disk	System Events : Disk-Folder-File Suite	1372
+isss	stored stream	Property of class: QuickTime data	System Events : QuickTime File Suite	1373
+istd	startup	Property of class: disk	Finder : Containers and folders	1374
+istd	startup	Property of class: disk	System Events : Disk-Folder-File Suite	1375
+isto	instead of	Parameter of command: Call•subroutine	AppleScript Language	1376
+iszm	zoomable	Property of class: window	AppleScript Language	1377
+iszm	zoomable	Property of class: window	Cocoa Scripting : Standard Suite	1379
+iszm	zoomable	Property of class: window	Finder : Window classes	1380
+ital	italic	Enumeration	AppleScript Language	1382
+itxt	international text	Class	AppleScript Language	1390
+iwnd	information window	Class	Finder : Window classes	1391
+iwnd	information window	Property of class: item	Finder : Finder items	1392
+jan	January	Class	AppleScript Language	1393
+Jdoc	music folder	Property of class: application	System Events : System Events Suite	1394
+JPEG	JPEG picture	Class	AppleScript Language	1395
+Jrnl	journaling enabled	Property of class: disk	Finder : Containers and folders	1396
+jul	July	Class	AppleScript Language	1397
+jun	June	Class	AppleScript Language	1398
+Kact	of action type	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1402
+Kapt	using action	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1403
+kchn	keychain folder	Enumeration	Standard Additions : File Commands	1404
+Kcid	with connection ID	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1405
+Kcip	from client IP address	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1406
+Kclk	caps lock down	Enumeration	AppleScript Language	1407
+Kcmd	command down	Enumeration	AppleScript Language	1408
+Kcmd	command down	Enumeration	System Events : Processes Suite	1409
+kcod	key code	Command	System Events : Processes Suite	1410
+Kctl	control down	Enumeration	AppleScript Language	1411
+Kctl	control down	Enumeration	System Events : Processes Suite	1412
+keyF	key down	Deprecated terminology	System Events : Hidden Suite	1421
+keyU	key up	Deprecated terminology	System Events : Hidden Suite	1426
+kfil	in	Parameter of command: save	AppleScript Language	1429
+kfil	in	Parameter of command: save	Cocoa Scripting : Standard Suite	1430
+kfil	saving in	Parameter of command: close	AppleScript Language	1431
+kfil	saving in	Parameter of command: close	Cocoa Scripting : Standard Suite	1432
+kfor	searching for	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1433
+kfrm	reference form	Class	AppleScript Language	1434
+kfrm	reference forms	Class	AppleScript Language	1435
+Kfrq	with full request	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1436
+kgrm	kilograms	Class	AppleScript Language	1437
+kina	arranged by kind	Enumeration	Finder : Enumerations	1438
+kind	kind	Enumeration	Finder : Enumerations	1439
+kind	kind	Property of class: alias	System Events : Disk-Folder-File Suite	1440
+kind	kind	Property of class: file	System Events : Disk-Folder-File Suite	1441
+kind	kind	Property of class: file information	Standard Additions : File Commands	1442
+kind	kind	Property of class: FTP item	Standard Additions : Internet Suite	1443
+kind	kind	Property of class: item	Finder : Finder items	1444
+kind	kind	Property of class: login item	System Events : Login Items Suite	1445
+kind	kind	Property of class: property list item	System Events : Property List Suite	1446
+kind	kind	Property of class: track	System Events : QuickTime File Suite	1447
+kknd	key kind	Property of class: keystroke	AppleScript Language	1448
+kMod	modifiers	Property of class: keystroke	AppleScript Language	1449
+kMsg	key	Property of class: keystroke	AppleScript Language	1450
+kmtr	kilometers	Class	AppleScript Language	1451
+kmtr	kilometres	Class	AppleScript Language	1452
+kocl	each	Parameter of command: count	AppleScript Language	1454
+kocl	each	Parameter of command: count	Cocoa Scripting : Standard Suite	1455
+kocl	each	Parameter of command: count	Finder : Standard Suite	1456
+kocl	new	Parameter of command: make	AppleScript Language	1457
+kocl	new	Parameter of command: make	Cocoa Scripting : Standard Suite	1458
+kocl	new	Parameter of command: make	Finder : Standard Suite	1459
+Kopt	option down	Enumeration	AppleScript Language	1460
+Kopt	option down	Enumeration	System Events : Processes Suite	1461
+kprs	keystroke	Class	AppleScript Language	1462
+kprs	keystroke	Command	System Events : Processes Suite	1463
+kprs	keystrokes	Class	AppleScript Language	1464
+Ksft	shift down	Enumeration	AppleScript Language	1465
+Ksft	shift down	Enumeration	System Events : Processes Suite	1466
+l8mk	large 8 bit mask	Property of class: icon family	Finder : Type Definitions	1467
+laba	arranged by label	Enumeration	Finder : Enumerations	1468
+labi	label index	Enumeration	Finder : Enumerations	1471
+labi	label index	Property of class: item	Finder : Finder items	1472
+lact	attached scripts	Command	System Events : Folder Actions Suite	1473
+laun	launch URL	Enumeration	Standard Additions : Internet Suite	1476
+laun	launcher items folder	Enumeration	Standard Additions : File Commands	1477
+laun	launcher items folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	1478
+lbot	bottom	Enumeration	Finder : Enumerations	1481
+lbs	pounds	Class	AppleScript Language	1482
+ldsa	host name	Property of class: system information	Standard Additions : Miscellaneous Commands	1483
+ldt	date	Class	AppleScript Language	1484
+ldt	dates	Class	AppleScript Language	1485
+left	left	Enumeration	AppleScript Language	1491
+leng	length	Property of class: linked list	AppleScript Language	1492
+leng	length	Property of class: list	AppleScript Language	1493
+leng	length	Property of class: vector	AppleScript Language	1494
+lfdr	list folder	Command	Standard Additions : File Commands	1499
+lfiv	invisibles	Parameter of command: choose file	Standard Additions : User Interaction	1500
+lfiv	invisibles	Parameter of command: choose folder	Standard Additions : User Interaction	1501
+lfiv	invisibles	Parameter of command: list folder	Standard Additions : File Commands	1502
+lfpt	long fixed point	Class	AppleScript Language	1503
+lfrc	long fixed rectangle	Class	AppleScript Language	1504
+lfxd	long fixed	Class	AppleScript Language	1505
+lgic	large	Enumeration	Finder : Enumerations	1506
+lgic	large icon	Enumeration	Finder : Enumerations	1507
+list	list	Class	AppleScript Language	1512
+list	list	Class	System Events : Processes Suite	1513
+list	lists	Class	AppleScript Language	1514
+list	lists	Class	System Events : Processes Suite	1515
+litr	liters	Class	AppleScript Language	1516
+litr	litres	Class	AppleScript Language	1517
+llst	linked list	Class	AppleScript Language	1518
+llst	linked lists	Class	AppleScript Language	1519
+load	load script	Command	Standard Additions : Scripting Commands	1525
+locS	localized string	Command	Standard Additions : String Commands	1536
+log0	stop log	Command	AppleScript Language	1540
+log1	start log	Command	AppleScript Language	1541
+logi	login item	Class	System Events : Login Items Suite	1542
+logi	login items	Class	System Events : Login Items Suite	1543
+logo	log out	Command	System Events : Power Suite	1544
+long	integer	Class	AppleScript Language	1545
+long	integers	Class	AppleScript Language	1546
+loop	looping	Property of class: QuickTime data	System Events : QuickTime File Suite	1549
+lowc	all lowercase	Enumeration	AppleScript Language	1550
+lpnt	long point	Class	AppleScript Language	1551
+lpos	label position	Property of class: icon view options	Finder : Type Definitions	1552
+lr  	list or record	Class	AppleScript Language	1553
+lrct	long rectangle	Class	AppleScript Language	1554
+lrgt	right	Enumeration	Finder : Enumerations	1555
+lrs	list, record or text	Class	AppleScript Language	1556
+ls  	list or string	Class	AppleScript Language	1557
+lsvw	list view	Enumeration	Finder : Enumerations	1558
+lvcl	column	Class	Finder : Type Definitions	1560
+lvcl	columns	Class	Finder : Type Definitions	1561
+lvis	icon size	Property of class: icon view options	Finder : Type Definitions	1562
+lvis	icon size	Property of class: list view options	Finder : Type Definitions	1563
+lvol	list disks	Command	Standard Additions : File Commands	1564
+lvop	list view options	Class	Finder : Type Definitions	1565
+lvop	list view options	Property of class: Finder window	Finder : Window classes	1566
+lvop	list view options	Property of class: preferences	Finder : Type Definitions	1567
+lwcl	collating	Property of class: print settings	Cocoa Scripting : Type Definitions	1568
+lwcp	copies	Property of class: print settings	Cocoa Scripting : Type Definitions	1569
+lwdt	detailed	Enumeration	Cocoa Scripting : Type Definitions	1570
+lweh	error handling	Property of class: print settings	Cocoa Scripting : Type Definitions	1571
+lwfp	starting page	Property of class: print settings	Cocoa Scripting : Type Definitions	1572
+lwla	pages across	Property of class: print settings	Cocoa Scripting : Type Definitions	1573
+lwld	pages down	Property of class: print settings	Cocoa Scripting : Type Definitions	1574
+lwlp	ending page	Property of class: print settings	Cocoa Scripting : Type Definitions	1575
+lwnd	clipping window	Class	Finder : Window classes	1576
+lwnd	clipping window	Property of class: clipping	Finder : Files	1577
+lwnd	clipping windows	Class	Finder : Window classes	1578
+lwst	standard	Enumeration	Cocoa Scripting : Type Definitions	1579
+mach	machine	Class	AppleScript Language	1580
+mach	machines	Class	AppleScript Language	1581
+macs	system folder	Enumeration	Standard Additions : File Commands	1583
+macs	system folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	1584
+magn	unsigned integer	Class	AppleScript Language	1586
+mail	mail URL	Enumeration	Standard Additions : Internet Suite	1589
+mar	March	Class	AppleScript Language	1592
+maxV	maximum value	Property of class: UI element	System Events : Processes Suite	1603
+may	May	Class	AppleScript Language	1605
+mbar	menu bar	Class	System Events : Processes Suite	1606
+mbar	menu bars	Class	System Events : Processes Suite	1607
+mbox	mailbox URL	Enumeration	Standard Additions : Internet Suite	1608
+mbri	menu bar item	Class	System Events : Processes Suite	1609
+mbri	menu bar items	Class	System Events : Processes Suite	1610
+mdcr	creation time	Property of class: QuickTime data	System Events : QuickTime File Suite	1611
+mdcr	creation time	Property of class: track	System Events : QuickTime File Suite	1612
+mdoc	movies folder	Enumeration	Standard Additions : File Commands	1613
+mdoc	movies folder	Property of class: application	System Events : System Events Suite	1614
+mdoc	movies folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	1615
+mdta	arranged by modification date	Enumeration	Finder : Enumerations	1616
+mdtm	modification time	Property of class: QuickTime data	System Events : QuickTime File Suite	1617
+mdtm	modification time	Property of class: track	System Events : QuickTime File Suite	1618
+menB	menu button	Class	System Events : Processes Suite	1620
+menB	menu buttons	Class	System Events : Processes Suite	1621
+menE	menu	Class	System Events : Processes Suite	1623
+menE	menus	Class	System Events : Processes Suite	1628
+menI	menu item	Class	System Events : Processes Suite	1630
+menI	menu items	Class	System Events : Processes Suite	1632
+mesS	message	Parameter of command: display alert	Standard Additions : User Interaction	1634
+mess	message URL	Enumeration	Standard Additions : Internet Suite	1635
+meth	using access method	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1636
+metr	meters	Class	AppleScript Language	1637
+metr	metres	Class	AppleScript Language	1638
+miic	mini	Enumeration	Finder : Enumerations	1641
+mile	miles	Class	AppleScript Language	1642
+min	minutes	Property of class: application	AppleScript Language	1643
+min	minutes	Property of class: date	AppleScript Language	1644
+minW	minimum value	Property of class: UI element	System Events : Processes Suite	1655
+mLoc	machine location	Class	AppleScript Language	1659
+mlsl	multiple selections allowed	Parameter of command: choose application	Standard Additions : User Interaction	1660
+mlsl	multiple selections allowed	Parameter of command: choose file	Standard Additions : User Interaction	1661
+mlsl	multiple selections allowed	Parameter of command: choose folder	Standard Additions : User Interaction	1662
+mlsl	multiple selections allowed	Parameter of command: choose from list	Standard Additions : User Interaction	1663
+mnfo	shows item info	Property of class: icon view options	Finder : Type Definitions	1664
+mnth	month	Class	AppleScript Language	1668
+mnth	month	Property of class: date	AppleScript Language	1669
+mnth	months	Class	AppleScript Language	1670
+mod	mod	Command	AppleScript Language	1672
+mon	Monday	Class	AppleScript Language	1679
+movd	movie data	Class	System Events : Movie File Suite	1687
+move	move	Command	AppleScript Language	1688
+move	move	Command	Cocoa Scripting : Standard Suite	1689
+move	move	Command	Finder : Standard Suite	1690
+move	move	Command	System Events : Disk-Folder-File Suite	1691
+movf	movie file	Class	System Events : Movie File Suite	1693
+movf	movie files	Class	System Events : Movie File Suite	1694
+mpnl	Memory panel	Enumeration	Finder : Enumerations	1703
+mprt	minimum size	Property of class: application file	Finder : Files	1704
+msng	missing value	Class	AppleScript Language	1705
+msng	missing values	Class	AppleScript Language	1706
+mult	multi URL	Enumeration	Standard Additions : Internet Suite	1707
+mute	output muted	Parameter of command: set volume	Standard Additions : Miscellaneous Commands	1708
+mute	output muted	Property of class: volume settings	Standard Additions : Miscellaneous Commands	1709
+mvis	reveal	Command	Finder : Finder items	1711
+mvol	mount volume	Command	Standard Additions : File Commands	1712
+mvpl	positioned at	Parameter of command: move	Finder : Standard Suite	1713
+nama	arranged by name	Enumeration	Finder : Enumerations	1714
+name	named	Enumeration	AppleScript Language	1715
+narr	not arranged	Enumeration	Finder : Enumerations	1716
+nd  	number or date	Class	AppleScript Language	1720
+ndim	natural dimensions	Property of class: movie data	System Events : Movie File Suite	1721
+nds	number, date or text	Class	AppleScript Language	1722
+nec?	necessity	Parameter of command: update	Finder : Finder items	1723
+neg	negate	Command	AppleScript Language	1726
+news	news URL	Enumeration	Standard Additions : Internet Suite	1728
+nfo4	info for	Command	Standard Additions : File Commands	1732
+nmbr	number	Class	AppleScript Language	1733
+nmbr	numbers	Class	AppleScript Language	1734
+nmwr	for	Parameter of command: write	Standard Additions : File Read/Write	1735
+nmxt	name extension	Property of class: file information	Standard Additions : File Commands	1736
+nmxt	name extension	Property of class: item	Finder : Finder items	1737
+nntp	nntp URL	Enumeration	Standard Additions : Internet Suite	1738
+no  	no	Enumeration	AppleScript Language	1745
+no  	no	Enumeration	Cocoa Scripting : Standard Suite	1746
+no  	no	Enumeration	Standard Additions : Scripting Commands	1747
+none	none	Enumeration	Finder : Enumerations	1750
+noop	launch	Command	AppleScript Language	1751
+norm	normal	Enumeration	System Events : QuickTime File Suite	1752
+NOT	not	Command	AppleScript Language	1754
+nov	November	Class	AppleScript Language	1756
+npnl	Name & Extension panel	Enumeration	Finder : Enumerations	1757
+ns  	number or string	Class	AppleScript Language	1758
+ntoc	ASCII character	Command	Standard Additions : String Commands	1762
+null	null	Class	AppleScript Language	1765
+nume	numeric strings	Enumeration	AppleScript Language	1766
+nwfl	choose file name	Command	Standard Additions : User Interaction	1770
+oapp	run	Command	AppleScript Language	1771
+obj	reference	Class	AppleScript Language	1772
+obj	references	Class	AppleScript Language	1773
+oct	October	Class	AppleScript Language	1776
+oded	editors	Enumeration	Standard Additions : File Commands	1777
+oded	editors folder	Enumeration	Standard Additions : File Commands	1778
+odoc	open	Command	AppleScript Language	1779
+odoc	open	Command	Cocoa Scripting : Standard Suite	1780
+odoc	open	Command	Finder : Standard Suite	1781
+odoc	open	Command	System Events : Disk-Folder-File Suite	1782
+odst	stationery	Enumeration	Standard Additions : File Commands	1783
+odst	stationery folder	Enumeration	Standard Additions : File Commands	1784
+offs	offset	Command	Standard Additions : String Commands	1793
+offs	start time	Property of class: track	System Events : QuickTime File Suite	1794
+ofst	off styles	Property of class: text style info	AppleScript Language	1795
+okbt	OK button name	Parameter of command: choose from list	Standard Additions : User Interaction	1796
+on  	on	Parameter of command: Call•subroutine	AppleScript Language	1806
+onst	on styles	Property of class: text style info	AppleScript Language	1808
+onto	onto	Parameter of command: Call•subroutine	AppleScript Language	1809
+open	open for access	Command	Standard Additions : File Read/Write	1817
+OR  	or	Command	AppleScript Language	1821
+orie	orientation	Property of class: UI element	System Events : Processes Suite	1822
+orig	original item	Property of class: alias file	Finder : Files	1823
+outl	outline	Class	System Events : Processes Suite	1841
+outl	outline	Enumeration	AppleScript Language	1842
+outl	outlines	Class	System Events : Processes Suite	1843
+outo	out of	Parameter of command: Call•subroutine	AppleScript Language	1844
+ouvl	output volume	Parameter of command: set volume	Standard Additions : Miscellaneous Commands	1847
+ouvl	output volume	Property of class: volume settings	Standard Additions : Miscellaneous Commands	1848
+over	over	Parameter of command: Call•subroutine	AppleScript Language	1849
+ownr	owner privileges	Property of class: item	Finder : Finder items	1850
+ozs	ounces	Class	AppleScript Language	1851
+pack	package	Class	Finder : Files	1852
+pack	packages	Class	Finder : Files	1853
+padv	Advanced Preferences panel	Enumeration	Finder : Enumerations	1855
+pALL	properties	Property of class: FTP item	Standard Additions : Internet Suite	1857
+pALL	properties	Property of class: Internet address	Standard Additions : Internet Suite	1858
+pALL	properties	Property of class: item	Cocoa Scripting : Standard Suite	1859
+pALL	properties	Property of class: item	Finder : Finder items	1860
+pALL	properties	Property of class: URL	Standard Additions : Internet Suite	1861
+pALL	properties	Property of class: web page	Standard Additions : Internet Suite	1862
+pALL	properties	Property of class: window	Finder : Window classes	1863
+panl	current panel	Property of class: information window	Finder : Window classes	1866
+panl	current panel	Property of class: preferences window	Finder : Window classes	1867
+pare	parent	Property of class: script	AppleScript Language	1871
+PASS	with password	Parameter of command: mount volume	Standard Additions : File Commands	1881
+pass	using password	Parameter of command: handle CGI request	Standard Additions : Internet Suite	1882
+pbnd	bounds	Property of class: item	Finder : Finder items	1887
+pbnd	bounds	Property of class: movie data	System Events : Movie File Suite	1888
+pbnd	bounds	Property of class: window	AppleScript Language	1890
+pbnd	bounds	Property of class: window	Cocoa Scripting : Standard Suite	1892
+pbnd	bounds	Property of class: window	Finder : Window classes	1893
+pcap	application process	Class	Finder : Legacy suite	1894
+pcap	application process	Class	System Events : Processes Suite	1895
+pcap	application processes	Class	Finder : Legacy suite	1896
+pcap	application processes	Class	System Events : Processes Suite	1897
+pcda	desk accessory process	Class	Finder : Legacy suite	1898
+pcda	desk accessory process	Class	System Events : Processes Suite	1899
+pcda	desk accessory processes	Class	Finder : Legacy suite	1900
+pcda	desk accessory processes	Class	System Events : Processes Suite	1901
+pcli	clipboard	Property of class: application	AppleScript Language	1902
+pcli	clipboard	Property of class: application	Finder : Finder Basics	1903
+pClp	set the clipboard to	Command	Standard Additions : Clipboard Commands	1904
+pcls	class	Class	AppleScript Language	1905
+pcls	class	Property of class: item	Cocoa Scripting : Standard Suite	1906
+pcls	class	Property of class: item	Finder : Finder items	1907
+pcls	class	Property of class: UI element	System Events : Processes Suite	1908
+pcls	classes	Class	AppleScript Language	1909
+pcmp	computer container	Property of class: application	Finder : Finder Basics	1910
+pcnt	contents	Property of class: audio file	System Events : Audio File Suite	1911
+pcnt	contents	Property of class: movie file	System Events : Movie File Suite	1918
+pcnt	contents	Property of class: property list file	System Events : Property List Suite	1921
+pcnt	contents	Property of class: QuickTime file	System Events : QuickTime File Suite	1922
+pcnt	contents	Property of class: selection-object	AppleScript Language	1923
+pcnt	contents	Property of class: XML file	System Events : XML Suite	1926
+pdhd	desktop shows hard disks	Property of class: preferences	Finder : Type Definitions	1927
+pdim	dimensions	Property of class: track	System Events : QuickTime File Suite	1928
+pdlg	print dialog	Parameter of command: print	Cocoa Scripting : Standard Suite	1929
+pDNS	DNS form	Property of class: Internet address	Standard Additions : Internet Suite	1930
+pdoc	pictures folder	Enumeration	Standard Additions : File Commands	1931
+pdoc	pictures folder	Property of class: application	System Events : System Events Suite	1932
+pdoc	pictures folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	1933
+pdoc	print	Command	AppleScript Language	1934
+pdoc	print	Command	Cocoa Scripting : Standard Suite	1935
+pdoc	print	Command	Finder : Standard Suite	1936
+pdrm	desktop shows removable media	Property of class: preferences	Finder : Type Definitions	1937
+pdsv	desktop shows connected servers	Property of class: preferences	Finder : Type Definitions	1938
+pedu	editable URL	Parameter of command: choose URL	Standard Additions : User Interaction	1939
+perf	perform	Command	System Events : Processes Suite	1941
+perm	write permission	Parameter of command: open for access	Standard Additions : File Read/Write	1942
+pexa	expandable	Property of class: container	Finder : Containers and folders	1944
+pexc	completely expanded	Property of class: container	Finder : Containers and folders	1945
+pexp	expanded	Enumeration	AppleScript Language	1946
+pexp	expanded	Property of class: container	Finder : Containers and folders	1947
+pfrp	Finder preferences	Property of class: application	Finder : Finder Basics	1948
+pgnp	General Preferences panel	Enumeration	Finder : Enumerations	1949
+phys	physical size	Property of class: disk item	System Events : Disk-Folder-File Suite	1951
+phys	physical size	Property of class: item	Finder : Finder items	1952
+phys	size	Enumeration	Finder : Enumerations	1953
+pi  	pi	Property of class: application	AppleScript Language	1954
+picd	picture CD appeared	Command	Digital Hub OSAX : Digital Hub Actions	1955
+pick	pick	Deprecated terminology	System Events : Hidden Suite	1956
+picp	picture path	Property of class: user	System Events : Accounts Suite	1957
+PICT	picture	Class	AppleScript Language	1958
+PICT	pictures	Class	AppleScript Language	1959
+pidx	index	Property of class: column	Finder : Type Definitions	1960
+pidx	index	Property of class: item	Finder : Finder items	1961
+pidx	index	Property of class: label	Finder : Type Definitions	1962
+pidx	index	Property of class: window	AppleScript Language	1963
+pidx	index	Property of class: window	Finder : Window classes	1965
+pidx	index	Property of class: window	System Events : Standard Suite	1966
+pinf	type property info	Class	AppleScript Language	1967
+pins	insertion location	Property of class: application	Finder : Finder Basics	1968
+pipd	dotted decimal form	Property of class: Internet address	Standard Additions : Internet Suite	1969
+pisf	frontmost	Property of class: application	AppleScript Language	1970
+pisf	frontmost	Property of class: application	Cocoa Scripting : Standard Suite	1972
+pisf	frontmost	Property of class: application	Finder : Finder Basics	1973
+pisf	frontmost	Property of class: process	Finder : Legacy suite	1974
+pisf	frontmost	Property of class: process	System Events : Processes Suite	1975
+pjst	justification	Property of class: line	AppleScript Language	1976
+pkgf	package folder	Property of class: disk item	System Events : Disk-Folder-File Suite	1977
+pklg	Languages panel	Enumeration	Finder : Enumerations	1978
+pkpg	Plugins panel	Enumeration	Finder : Enumerations	1979
+plan	plain	Enumeration	AppleScript Language	1981
+plbp	Label Preferences panel	Enumeration	Finder : Enumerations	1984
+plcd	language code	Property of class: writing code info	AppleScript Language	1985
+plif	property list file	Class	System Events : Property List Suite	1987
+plif	property list files	Class	System Events : Property List Suite	1988
+plii	property list item	Class	System Events : Property List Suite	1989
+plii	property list items	Class	System Events : Property List Suite	1990
+plst	with parameters	Parameter of command: run script	Standard Additions : Scripting Commands	1992
+pmin	type parameter info	Class	AppleScript Language	1996
+pmnd	miniaturized	Property of class: window	Cocoa Scripting : Standard Suite	1997
+pmod	modal	Property of class: window	AppleScript Language	1998
+pmod	modal	Property of class: window	Cocoa Scripting : Standard Suite	2000
+pmod	modal	Property of class: window	Finder : Window classes	2001
+pmss	slide show	Enumeration	System Events : QuickTime File Suite	2002
+pnam	name	Enumeration	Finder : Enumerations	2003
+pnam	name	Property of class: action	System Events : Processes Suite	2004
+pnam	name	Property of class: annotation	System Events : QuickTime File Suite	2005
+pnam	name	Property of class: application	AppleScript Language	2006
+pnam	name	Property of class: application	Cocoa Scripting : Standard Suite	2008
+pnam	name	Property of class: application	Finder : Finder Basics	2009
+pnam	name	Property of class: attribute	System Events : Processes Suite	2010
+pnam	name	Property of class: column	Finder : Type Definitions	2011
+pnam	name	Property of class: disk item	System Events : Disk-Folder-File Suite	2015
+pnam	name	Property of class: document	Cocoa Scripting : Standard Suite	2017
+pnam	name	Property of class: domain	System Events : Disk-Folder-File Suite	2018
+pnam	name	Property of class: file information	Standard Additions : File Commands	2019
+pnam	name	Property of class: folder action	System Events : Folder Actions Suite	2020
+pnam	name	Property of class: FTP item	Standard Additions : Internet Suite	2021
+pnam	name	Property of class: item	Finder : Finder items	2023
+pnam	name	Property of class: item	System Events : Disk-Folder-File Suite	2024
+pnam	name	Property of class: label	Finder : Type Definitions	2025
+pnam	name	Property of class: login item	System Events : Login Items Suite	2026
+pnam	name	Property of class: process	Finder : Legacy suite	2028
+pnam	name	Property of class: process	System Events : Processes Suite	2029
+pnam	name	Property of class: property list item	System Events : Property List Suite	2030
+pnam	name	Property of class: script	AppleScript Language	2031
+pnam	name	Property of class: script	System Events : Folder Actions Suite	2032
+pnam	name	Property of class: text flow	AppleScript Language	2033
+pnam	name	Property of class: track	System Events : QuickTime File Suite	2034
+pnam	name	Property of class: UI element	System Events : Processes Suite	2035
+pnam	name	Property of class: URL	Standard Additions : Internet Suite	2036
+pnam	name	Property of class: user	System Events : Accounts Suite	2037
+pnam	name	Property of class: web page	Standard Additions : Internet Suite	2038
+pnam	name	Property of class: window	Cocoa Scripting : Standard Suite	2039
+pnam	name	Property of class: window	Finder : Window classes	2040
+pnam	name	Property of class: XML attribute	System Events : XML Suite	2041
+pnam	name	Property of class: XML data	System Events : XML Suite	2042
+pnam	name	Property of class: XML element	System Events : XML Suite	2043
+pnwt	new window target	Property of class: preferences	Finder : Type Definitions	2044
+pocv	new windows open in column view	Property of class: preferences	Finder : Type Definitions	2045
+ponw	folders open in new windows	Property of class: preferences	Finder : Type Definitions	2046
+popB	pop up button	Class	System Events : Processes Suite	2048
+popB	pop up buttons	Class	System Events : Processes Suite	2049
+posn	position	Property of class: item	Finder : Finder items	2053
+posn	position	Property of class: UI element	System Events : Processes Suite	2054
+posn	position	Property of class: window	Finder : Window classes	2057
+post	with posted data	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2058
+posx	POSIX path	Property of class: disk item	System Events : Disk-Folder-File Suite	2059
+posx	POSIX path	Property of class: script	System Events : Folder Actions Suite	2060
+ppcb	choose application	Command	Standard Additions : User Interaction	2061
+ppdf	printer descriptions	Enumeration	Standard Additions : File Commands	2062
+ppdf	printer descriptions folder	Enumeration	Standard Additions : File Commands	2063
+ppor	port	Property of class: Internet address	Standard Additions : Internet Suite	2064
+ppth	path	Property of class: disk item	System Events : Disk-Folder-File Suite	2066
+ppth	path	Property of class: document	Cocoa Scripting : Standard Suite	2068
+ppth	path	Property of class: folder action	System Events : Folder Actions Suite	2069
+ppth	path	Property of class: login item	System Events : Login Items Suite	2070
+ppth	path	Property of class: script	System Events : Folder Actions Suite	2071
+prcs	process	Class	Finder : Legacy suite	2073
+prcs	process	Class	System Events : Processes Suite	2074
+prcs	processes	Class	Finder : Legacy suite	2075
+prcs	processes	Class	System Events : Processes Suite	2076
+prdp	print depth	Property of class: application	AppleScript Language	2078
+prdt	with properties	Parameter of command: duplicate	AppleScript Language	2079
+prdt	with properties	Parameter of command: duplicate	Cocoa Scripting : Standard Suite	2080
+prdt	with properties	Parameter of command: make	AppleScript Language	2081
+prdt	with properties	Parameter of command: make	Cocoa Scripting : Standard Suite	2082
+prdt	with properties	Parameter of command: make	Finder : Standard Suite	2083
+prdt	with properties	Parameter of command: open	Finder : Standard Suite	2084
+prdt	with properties	Parameter of command: print	Cocoa Scripting : Standard Suite	2085
+prdt	with properties	Parameter of command: print	Finder : Standard Suite	2086
+pref	preferences	Enumeration	Standard Additions : File Commands	2090
+pref	preferences folder	Enumeration	Standard Additions : File Commands	2091
+pref	preferences folder	Property of class: application	System Events : System Events Suite	2092
+pref	preferences folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	2093
+pref	preferences folder	Property of class: domain	System Events : Disk-Folder-File Suite	2094
+prep	preposition	Class	AppleScript Language	2095
+prep	prepositions	Class	AppleScript Language	2096
+prfr	preferred rate	Property of class: QuickTime data	System Events : QuickTime File Suite	2103
+prfv	preferred volume	Property of class: QuickTime data	System Events : QuickTime File Suite	2104
+prln	print length	Property of class: application	AppleScript Language	2106
+prmd	presentation mode	Property of class: QuickTime data	System Events : QuickTime File Suite	2108
+prmp	with prompt	Parameter of command: choose application	Standard Additions : User Interaction	2109
+prmp	with prompt	Parameter of command: choose file	Standard Additions : User Interaction	2110
+prmp	with prompt	Parameter of command: choose folder	Standard Additions : User Interaction	2111
+prmp	with prompt	Parameter of command: choose from list	Standard Additions : User Interaction	2112
+prmp	with prompt	Parameter of command: choose remote application	Standard Additions : User Interaction	2113
+prmt	with prompt	Parameter of command: choose file name	Standard Additions : User Interaction	2114
+prnt	printmonitor	Enumeration	Standard Additions : File Commands	2115
+prnt	printmonitor folder	Enumeration	Standard Additions : File Commands	2116
+proI	progress indicator	Class	System Events : Processes Suite	2121
+proI	progress indicators	Class	System Events : Processes Suite	2123
+prop	properties	Class	AppleScript Language	2125
+prop	property	Class	AppleScript Language	2126
+prsz	presentation size	Property of class: QuickTime data	System Events : QuickTime File Suite	2130
+prsz	resizable	Property of class: window	AppleScript Language	2132
+prsz	resizable	Property of class: window	Cocoa Scripting : Standard Suite	2134
+prsz	resizable	Property of class: window	Finder : Window classes	2135
+prvw	shows icon preview	Property of class: icon view options	Finder : Type Definitions	2138
+psbr	Call•subroutine	Command	AppleScript Language	2139
+pscd	script code	Property of class: writing code info	AppleScript Language	2140
+psct	writing code	Class	AppleScript Language	2141
+psct	writing code	Property of class: text	AppleScript Language	2142
+pset	print settings	Class	Cocoa Scripting : Type Definitions	2143
+psid	Sidebar Preferences panel	Enumeration	Finder : Enumerations	2144
+psin	in	Parameter of command: offset	Standard Additions : String Commands	2145
+psnx	all name extensions showing	Property of class: preferences	Finder : Type Definitions	2146
+psof	of	Parameter of command: offset	Standard Additions : String Commands	2148
+pspd	stationery	Property of class: alias	System Events : Disk-Folder-File Suite	2149
+pspd	stationery	Property of class: file	Finder : Files	2150
+pspd	stationery	Property of class: file	System Events : Disk-Folder-File Suite	2151
+pstr	Pascal string	Class	AppleScript Language	2152
+pstr	Pascal strings	Class	AppleScript Language	2153
+psxf	POSIX file	Class	Standard Additions : Miscellaneous Commands	2154
+psxp	POSIX path	Property of class: alias	AppleScript Language	2155
+psxp	POSIX path	Property of class: file	AppleScript Language	2156
+psxp	POSIX path	Property of class: file specification	AppleScript Language	2157
+psxp	POSIX path	Property of class: POSIX file	Standard Additions : Miscellaneous Commands	2158
+ptit	titled	Property of class: window	AppleScript Language	2159
+ptit	titled	Property of class: window	Cocoa Scripting : Standard Suite	2161
+ptit	titled	Property of class: window	Finder : Window classes	2162
+ptlr	partial result	Parameter of command: error	AppleScript Language	2163
+ptsz	size	Parameter of command: info for	Standard Additions : File Commands	2164
+ptsz	size	Property of class: attribute run	Cocoa Scripting : Text Suite	2165
+ptsz	size	Property of class: character	Cocoa Scripting : Text Suite	2166
+ptsz	size	Property of class: disk item	System Events : Disk-Folder-File Suite	2167
+ptsz	size	Property of class: file information	Standard Additions : File Commands	2168
+ptsz	size	Property of class: item	Finder : Finder items	2169
+ptsz	size	Property of class: paragraph	Cocoa Scripting : Text Suite	2170
+ptsz	size	Property of class: text	AppleScript Language	2171
+ptsz	size	Property of class: text	Cocoa Scripting : Text Suite	2172
+ptsz	size	Property of class: UI element	System Events : Processes Suite	2173
+ptsz	size	Property of class: word	Cocoa Scripting : Text Suite	2176
+ptxe	text encoding	Property of class: web page	Standard Additions : Internet Suite	2177
+pubb	public folder	Enumeration	Standard Additions : File Commands	2178
+pubb	public folder	Property of class: application	System Events : System Events Suite	2179
+pubb	public folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	2180
+punc	punctuation	Enumeration	AppleScript Language	2182
+pURL	URL	Property of class: FTP item	Standard Additions : Internet Suite	2183
+pURL	URL	Property of class: item	Finder : Finder items	2184
+pURL	URL	Property of class: web page	Standard Additions : Internet Suite	2185
+pusc	scheme	Property of class: URL	Standard Additions : Internet Suite	2186
+pusd	partition space used	Property of class: process	Finder : Legacy suite	2187
+pusd	partition space used	Property of class: process	System Events : Processes Suite	2188
+pvew	current view	Property of class: Finder window	Finder : Window classes	2189
+pvis	visible	Property of class: application	Finder : Finder Basics	2191
+pvis	visible	Property of class: column	Finder : Type Definitions	2192
+pvis	visible	Property of class: disk item	System Events : Disk-Folder-File Suite	2193
+pvis	visible	Property of class: file information	Standard Additions : File Commands	2194
+pvis	visible	Property of class: process	Finder : Legacy suite	2195
+pvis	visible	Property of class: process	System Events : Processes Suite	2196
+pvis	visible	Property of class: window	AppleScript Language	2198
+pvis	visible	Property of class: window	Cocoa Scripting : Standard Suite	2200
+pvis	visible	Property of class: window	Finder : Window classes	2201
+pvwd	preview duration	Property of class: movie data	System Events : Movie File Suite	2202
+pvwt	preview time	Property of class: movie data	System Events : Movie File Suite	2203
+pwnd	preferences window	Class	Finder : Window classes	2204
+pzum	zoomed	Property of class: window	AppleScript Language	2206
+pzum	zoomed	Property of class: window	Cocoa Scripting : Standard Suite	2208
+pzum	zoomed	Property of class: window	Finder : Window classes	2209
+qdel	quit delay	Property of class: application	System Events : System Events Suite	2210
+QDpt	point	Class	AppleScript Language	2211
+qdrt	bounding rectangle	Class	AppleScript Language	2212
+qobj	class info	Command	AppleScript Language	2213
+qrts	quarts	Class	AppleScript Language	2214
+Qscr	scripting additions folder	Property of class: application	System Events : System Events Suite	2215
+qtfd	QuickTime data	Class	System Events : QuickTime File Suite	2216
+qtff	QuickTime file	Class	System Events : QuickTime File Suite	2217
+qtff	QuickTime files	Class	System Events : QuickTime File Suite	2218
+quit	quit	Command	AppleScript Language	2219
+quit	quit	Command	Cocoa Scripting : Standard Suite	2220
+quit	quit	Command	Finder : Standard Suite	2221
+quot	quote	Property of class: application	AppleScript Language	2222
+radB	radio button	Class	System Events : Processes Suite	2223
+radB	radio buttons	Class	System Events : Processes Suite	2225
+rand	random number	Command	Standard Additions : Miscellaneous Commands	2227
+rapp	reopen	Command	AppleScript Language	2228
+RApw	password	Parameter of command: do shell script	Standard Additions : Miscellaneous Commands	2229
+RApw	password	Property of class: URL	Standard Additions : Internet Suite	2230
+RAun	user name	Parameter of command: do shell script	Standard Additions : Miscellaneous Commands	2232
+RAun	user name	Property of class: URL	Standard Additions : Internet Suite	2233
+rbfr	before	Parameter of command: read	Standard Additions : File Read/Write	2234
+rdat	data	Class	AppleScript Language	2235
+rdfm	from	Parameter of command: read	Standard Additions : File Read/Write	2237
+rdfr	for	Parameter of command: read	Standard Additions : File Read/Write	2238
+rdto	to	Parameter of command: read	Standard Additions : File Read/Write	2239
+rdut	until	Parameter of command: read	Standard Additions : File Read/Write	2240
+rdwr	read write	Enumeration	Finder : Enumerations	2241
+read	read	Command	Standard Additions : File Read/Write	2242
+read	read only	Enumeration	Finder : Enumerations	2243
+reco	record	Class	AppleScript Language	2244
+reco	records	Class	AppleScript Language	2245
+refn	to	Parameter of command: write	Standard Additions : File Read/Write	2247
+refr	referred by	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2248
+reg?	registering applications	Parameter of command: update	Finder : Finder items	2250
+reli	relevance indicator	Class	System Events : Processes Suite	2255
+reli	relevance indicators	Class	System Events : Processes Suite	2256
+rest	rest	Property of class: list	AppleScript Language	2270
+rest	restart	Command	Finder : Legacy suite	2271
+rest	restart	Command	System Events : Power Suite	2272
+ret	return	Property of class: application	AppleScript Language	2274
+revt	accepts remote events	Property of class: process	Finder : Legacy suite	2276
+revt	accepts remote events	Property of class: process	System Events : Processes Suite	2277
+rght	right	Enumeration	AppleScript Language	2280
+rgrp	radio group	Class	System Events : Processes Suite	2281
+rgrp	radio groups	Class	System Events : Processes Suite	2282
+rmfa	remove action from	Command	System Events : Folder Actions Suite	2295
+rmte	application responses	Enumeration	AppleScript Language	2296
+rndD	down	Enumeration	Standard Additions : Miscellaneous Commands	2298
+rndN	to nearest	Enumeration	Standard Additions : Miscellaneous Commands	2299
+rndS	as taught in school	Enumeration	Standard Additions : Miscellaneous Commands	2300
+rndU	up	Enumeration	Standard Additions : Miscellaneous Commands	2301
+rndZ	toward zero	Enumeration	Standard Additions : Miscellaneous Commands	2302
+role	role	Property of class: UI element	System Events : Processes Suite	2303
+rond	round	Command	Standard Additions : Miscellaneous Commands	2306
+rout	routing suppressed	Parameter of command: duplicate	Finder : Standard Suite	2308
+rout	routing suppressed	Parameter of command: move	Finder : Standard Suite	2309
+rpth	path to resource	Command	Standard Additions : File Commands	2321
+rslt	result	Property of class: application	AppleScript Language	2322
+rtsp	streaming multimedia URL	Enumeration	Standard Additions : Internet Suite	2324
+rtyp	as	Parameter of command: choose application	Standard Additions : User Interaction	2325
+rtyp	as	Parameter of command: data size	AppleScript Language	2326
+rtyp	as	Parameter of command: data size	Finder : Standard Suite	2327
+rtyp	as	Parameter of command: do shell script	Standard Additions : Miscellaneous Commands	2328
+rtyp	as	Parameter of command: path to	Standard Additions : File Commands	2329
+rtyp	as	Parameter of command: the clipboard	Standard Additions : Clipboard Commands	2330
+rvse	reverse	Property of class: list	AppleScript Language	2333
+sat	Saturday	Class	AppleScript Language	2337
+save	save	Command	AppleScript Language	2338
+save	save	Command	Cocoa Scripting : Standard Suite	2339
+savo	replacing	Parameter of command: store script	Standard Additions : Scripting Commands	2340
+savo	saving	Parameter of command: close	AppleScript Language	2341
+savo	saving	Parameter of command: close	Cocoa Scripting : Standard Suite	2342
+savo	saving	Parameter of command: quit	AppleScript Language	2343
+savo	saving	Parameter of command: quit	Cocoa Scripting : Standard Suite	2344
+sbrl	subrole	Property of class: UI element	System Events : Processes Suite	2347
+sbsc	subscript	Enumeration	AppleScript Language	2348
+sbwi	sidebar width	Property of class: Finder window	Finder : Window classes	2349
+scmn	script menu enabled	Property of class: application	System Events : System Events Suite	2351
+scnd	seconds	Class	AppleScript Language	2352
+scnd	seconds	Property of class: date	AppleScript Language	2353
+scnm	executing by	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2354
+scpt	script	Class	AppleScript Language	2355
+scpt	script	Class	System Events : Folder Actions Suite	2356
+scpt	scripts	Class	AppleScript Language	2358
+scpt	scripts	Class	System Events : Folder Actions Suite	2359
+scr$	scripts folder	Property of class: domain	System Events : Disk-Folder-File Suite	2360
+scrƒ	scripts folder	Enumeration	Standard Additions : File Commands	2361
+scra	scroll area	Class	System Events : Processes Suite	2362
+scra	scroll areas	Class	System Events : Processes Suite	2363
+scrb	scroll bar	Class	System Events : Processes Suite	2365
+scrb	scroll bars	Class	System Events : Processes Suite	2366
+scrQ	scripts folder	Property of class: application	System Events : System Events Suite	2370
+scsy	in	Parameter of command: run script	Standard Additions : Scripting Commands	2376
+sdat	shared documents	Enumeration	Standard Additions : File Commands	2379
+sdat	shared documents folder	Enumeration	Standard Additions : File Commands	2380
+sdev	control strip modules	Enumeration	Standard Additions : File Commands	2381
+sdev	control strip modules folder	Enumeration	Standard Additions : File Commands	2382
+sdev	control strip modules folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	2383
+sdoc	handle CGI request	Command	Standard Additions : Internet Suite	2384
+sdsk	startup disk	Property of class: application	Finder : Finder Basics	2385
+sdsk	startup disk	Property of class: application	System Events : System Events Suite	2386
+seed	with seed	Parameter of command: random number	Standard Additions : Miscellaneous Commands	2395
+selE	selected	Property of class: UI element	System Events : Processes Suite	2404
+sele	selection	Property of class: application	AppleScript Language	2405
+sele	selection	Property of class: application	Finder : Finder Basics	2406
+seof	set eof	Command	Standard Additions : File Read/Write	2415
+sep	September	Class	AppleScript Language	2416
+set2	to	Parameter of command: set eof	Standard Additions : File Read/Write	2422
+setd	set	Command	Cocoa Scripting : Standard Suite	2423
+sf  	alias or string	Class	AppleScript Language	2426
+sfsz	calculates folder sizes	Property of class: list view options	Finder : Type Definitions	2427
+sgrp	group	Class	System Events : Processes Suite	2428
+sgrp	group	Property of class: item	Finder : Finder items	2429
+sgrp	groups	Class	System Events : Processes Suite	2430
+shad	shadow	Enumeration	AppleScript Language	2431
+shdf	shutdown folder	Enumeration	Standard Additions : File Commands	2434
+shdf	shutdown folder	Property of class: Classic domain object	System Events : Disk-Folder-File Suite	2435
+shdf	shutdown items	Enumeration	Standard Additions : File Commands	2436
+shdf	shutdown items folder	Enumeration	Standard Additions : File Commands	2437
+shdt	short date string	Property of class: date	AppleScript Language	2438
+sheE	sheet	Class	System Events : Processes Suite	2440
+sheE	sheets	Class	System Events : Processes Suite	2442
+shic	shows icon	Property of class: column view options	Finder : Type Definitions	2445
+shor	short	Enumeration	Standard Additions : File Read/Write	2453
+shor	small integer	Class	AppleScript Language	2454
+shpc	showing package contents	Parameter of command: choose file	Standard Additions : User Interaction	2457
+shpc	showing package contents	Parameter of command: choose folder	Standard Additions : User Interaction	2458
+shpr	shows preview column	Property of class: column view options	Finder : Type Definitions	2459
+shut	shut down	Command	Finder : Legacy suite	2467
+shut	shut down	Command	System Events : Power Suite	2468
+siav	AppleScript version	Property of class: system information	Standard Additions : Miscellaneous Commands	2469
+sibv	boot volume	Property of class: system information	Standard Additions : Miscellaneous Commands	2470
+sicn	computer name	Property of class: system information	Standard Additions : Miscellaneous Commands	2471
+sics	CPU speed	Property of class: system information	Standard Additions : Miscellaneous Commands	2472
+sict	CPU type	Property of class: system information	Standard Additions : Miscellaneous Commands	2473
+siea	primary Ethernet address	Property of class: system information	Standard Additions : Miscellaneous Commands	2475
+sigt	system info	Command	Standard Additions : Miscellaneous Commands	2476
+siid	user ID	Property of class: system information	Standard Additions : Miscellaneous Commands	2477
+siip	IPv4 address	Property of class: system information	Standard Additions : Miscellaneous Commands	2478
+sikv	AppleScript Studio version	Property of class: system information	Standard Additions : Miscellaneous Commands	2479
+siln	long user name	Property of class: system information	Standard Additions : Miscellaneous Commands	2480
+sing	small real	Class	AppleScript Language	2481
+sipm	physical memory	Property of class: system information	Standard Additions : Miscellaneous Commands	2482
+sirr	system information	Class	Standard Additions : Miscellaneous Commands	2483
+sisn	short user name	Property of class: system information	Standard Additions : Miscellaneous Commands	2484
+sisv	system version	Property of class: system information	Standard Additions : Miscellaneous Commands	2485
+site	sites folder	Enumeration	Standard Additions : File Commands	2486
+site	sites folder	Property of class: application	System Events : System Events Suite	2487
+site	sites folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	2488
+siul	user locale	Property of class: system information	Standard Additions : Miscellaneous Commands	2490
+siza	arranged by size	Enumeration	Finder : Enumerations	2491
+slct	select	Command	AppleScript Language	2493
+slct	select	Command	Finder : Standard Suite	2494
+slct	select	Command	System Events : Processes Suite	2495
+slep	sleep	Command	Finder : Legacy suite	2496
+slep	sleep	Command	System Events : Power Suite	2497
+sliI	slider	Class	System Events : Processes Suite	2499
+sliI	sliders	Class	System Events : Processes Suite	2501
+smcp	small caps	Enumeration	AppleScript Language	2505
+smic	small	Enumeration	Finder : Enumerations	2506
+smic	small icon	Enumeration	Finder : Enumerations	2507
+snam	using action name	Parameter of command: edit action of	System Events : Folder Actions Suite	2509
+snam	using action name	Parameter of command: remove action from	System Events : Folder Actions Suite	2510
+snce	since	Parameter of command: Call•subroutine	AppleScript Language	2511
+snd	sound	Class	AppleScript Language	2512
+snd	sounds	Class	AppleScript Language	2514
+snrm	normal	Enumeration	Finder : Enumerations	2516
+snws	secure news URL	Enumeration	Standard Additions : Internet Suite	2517
+sord	sort direction	Property of class: column	Finder : Type Definitions	2521
+SORT	sort	Command	Finder : Finder Basics	2524
+sown	owner	Property of class: item	Finder : Finder items	2531
+spac	space	Property of class: application	AppleScript Language	2532
+spki	speakable items	Enumeration	Standard Additions : File Commands	2534
+spki	speakable items folder	Property of class: application	System Events : System Events Suite	2535
+spki	speakable items folder	Property of class: domain	System Events : Disk-Folder-File Suite	2536
+splg	splitter group	Class	System Events : Processes Suite	2537
+splg	splitter groups	Class	System Events : Processes Suite	2538
+splr	splitter	Class	System Events : Processes Suite	2539
+splr	splitters	Class	System Events : Processes Suite	2540
+spnl	Sharing panel	Enumeration	Finder : Enumerations	2543
+sprf	system preferences	Enumeration	Standard Additions : File Commands	2544
+sprg	folders spring open	Property of class: preferences	Finder : Type Definitions	2545
+sprt	suggested size	Property of class: application file	Finder : Files	2546
+spsc	superscript	Enumeration	AppleScript Language	2547
+sqft	square feet	Class	AppleScript Language	2549
+sqkm	square kilometers	Class	AppleScript Language	2550
+sqkm	square kilometres	Class	AppleScript Language	2551
+sqmi	square miles	Class	AppleScript Language	2552
+sqrm	square meters	Class	AppleScript Language	2553
+sqrm	square metres	Class	AppleScript Language	2554
+sqyd	square yards	Class	AppleScript Language	2555
+srtc	sort column	Property of class: list view options	Finder : Type Definitions	2556
+SRVR	on server	Parameter of command: mount volume	Standard Additions : File Commands	2557
+srvs	reversed	Enumeration	Finder : Enumerations	2558
+stbl	settable	Property of class: attribute	System Events : Processes Suite	2565
+stdf	choose file	Command	Standard Additions : User Interaction	2567
+stfl	choose folder	Command	Standard Additions : User Interaction	2574
+stof	saving to	Parameter of command: say	Standard Additions : User Interaction	2575
+stor	store script	Command	Standard Additions : Scripting Commands	2576
+strk	strikethrough	Enumeration	AppleScript Language	2578
+strq	quoted form	Property of class: text	AppleScript Language	2579
+sttx	static text	Class	System Events : Processes Suite	2580
+sttx	static texts	Class	System Events : Processes Suite	2581
+stvi	statusbar visible	Property of class: Finder window	Finder : Window classes	2582
+stvl	set volume	Command	Standard Additions : Miscellaneous Commands	2583
+STXT	styled text	Class	AppleScript Language	2584
+styl	scrap styles	Class	AppleScript Language	2585
+styl	styled Clipboard text	Class	AppleScript Language	2586
+suin	type suite info	Class	AppleScript Language	2588
+summ	summarize	Command	Standard Additions : String Commands	2589
+sun	Sunday	Class	AppleScript Language	2590
+sutx	styled Unicode text	Class	AppleScript Language	2593
+svnm	from server	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2594
+svpt	via port	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2595
+tab	tab	Property of class: application	AppleScript Language	2599
+tabB	table	Class	System Events : Processes Suite	2600
+tabB	tables	Class	System Events : Processes Suite	2601
+tabg	tab group	Class	System Events : Processes Suite	2616
+tabg	tab groups	Class	System Events : Processes Suite	2617
+tbar	tool bar	Class	System Events : Processes Suite	2644
+tbar	tool bars	Class	System Events : Processes Suite	2645
+tbvi	toolbar visible	Property of class: Finder window	Finder : Window classes	2650
+tdas	dash style	Class	AppleScript Language	2651
+tdfr	data format	Property of class: track	System Events : QuickTime File Suite	2652
+tell	tell	Command	AppleScript Language	2659
+temp	temporary items	Enumeration	Standard Additions : File Commands	2660
+temp	temporary items folder	Enumeration	Standard Additions : File Commands	2661
+temp	temporary items folder	Property of class: application	System Events : System Events Suite	2662
+temp	temporary items folder	Property of class: user domain object	System Events : Disk-Folder-File Suite	2663
+tend	end tell	Command	AppleScript Language	2664
+TEXT	plain text	Class	AppleScript Language	2672
+TEXT	string	Class	AppleScript Language	2673
+TEXT	strings	Class	AppleScript Language	2674
+thgh	through	Parameter of command: Call•subroutine	AppleScript Language	2677
+thru	thru	Parameter of command: Call•subroutine	AppleScript Language	2678
+thu	Thursday	Class	AppleScript Language	2681
+TIFF	TIFF picture	Class	AppleScript Language	2682
+time	time	Property of class: date	AppleScript Language	2685
+titl	title	Property of class: UI element	System Events : Processes Suite	2703
+tlnt	telnet URL	Enumeration	Standard Additions : Internet Suite	2709
+tmsc	time scale	Property of class: QuickTime data	System Events : QuickTime File Suite	2710
+to  	to	Parameter of command: Call•subroutine	AppleScript Language	2713
+to  	to	Parameter of command: make	Finder : Standard Suite	2714
+to  	to	Parameter of command: random number	Standard Additions : Miscellaneous Commands	2715
+tpmm	pixel map record	Class	AppleScript Language	2728
+tr16	RGB16 color	Class	AppleScript Language	2729
+tr96	RGB96 color	Class	AppleScript Language	2730
+trak	track	Class	System Events : QuickTime File Suite	2731
+trak	tracks	Class	System Events : QuickTime File Suite	2732
+trot	rotation	Class	AppleScript Language	2737
+trpr	target printer	Property of class: print settings	Cocoa Scripting : Type Definitions	2738
+trsh	trash	Enumeration	Standard Additions : File Commands	2739
+trsh	trash	Property of class: application	Finder : Finder Basics	2740
+trsh	trash	Property of class: application	System Events : System Events Suite	2741
+trsh	trash folder	Enumeration	Standard Additions : File Commands	2742
+true	true	Enumeration	AppleScript Language	2743
+tstr	time string	Property of class: date	AppleScript Language	2746
+tsty	text style info	Class	AppleScript Language	2747
+tsty	text style infos	Class	AppleScript Language	2748
+ttos	say	Command	Standard Additions : User Interaction	2750
+ttrm	abort transaction	Command	System Events : System Events Suite	2751
+ttxt	text returned	Property of class: dialog reply	Standard Additions : User Interaction	2753
+tue	Tuesday	Class	AppleScript Language	2754
+txdl	text item delimiters	Property of class: application	AppleScript Language	2755
+txst	style	Property of class: text	AppleScript Language	2756
+txta	text area	Class	System Events : Processes Suite	2757
+txta	text areas	Class	System Events : Processes Suite	2758
+txtf	text field	Class	System Events : Processes Suite	2759
+txtf	text fields	Class	System Events : Processes Suite	2760
+type	type	Property of class: track	System Events : QuickTime File Suite	2761
+type	type class	Class	AppleScript Language	2762
+uacc	user	Class	System Events : Accounts Suite	2764
+uacc	users	Class	System Events : Accounts Suite	2765
+uiel	UI element	Class	System Events : Processes Suite	2766
+uiel	UI elements	Class	System Events : Processes Suite	2767
+uien	UI elements enabled	Property of class: application	System Events : System Events Suite	2768
+uldp	directory server URL	Enumeration	Standard Additions : Internet Suite	2769
+undl	underline	Enumeration	AppleScript Language	2770
+undr	under	Parameter of command: Call•subroutine	AppleScript Language	2771
+unfs	network file system URL	Enumeration	Standard Additions : Internet Suite	2772
+upop	mail server URL	Enumeration	Standard Additions : Internet Suite	2779
+urdt	uses relative dates	Property of class: list view options	Finder : Type Definitions	2781
+url	URL	Class	Standard Additions : Internet Suite	2782
+url	URL	Property of class: disk item	System Events : Disk-Folder-File Suite	2783
+url?	unknown URL	Enumeration	Standard Additions : Internet Suite	2784
+USER	as user name	Parameter of command: mount volume	Standard Additions : File Commands	2788
+user	from user	Parameter of command: handle CGI request	Standard Additions : Internet Suite	2790
+usin	using	Parameter of command: open	Finder : Standard Suite	2792
+usrs	users folder	Enumeration	Standard Additions : File Commands	2793
+ustl	uniform styles	Property of class: text	AppleScript Language	2796
+uti$	utilities folder	Property of class: domain	System Events : Disk-Folder-File Suite	2798
+utiƒ	utilities folder	Enumeration	Standard Additions : File Commands	2799
+utid	type identifier	Property of class: alias	System Events : Disk-Folder-File Suite	2800
+utid	type identifier	Property of class: file	System Events : Disk-Folder-File Suite	2801
+utid	type identifier	Property of class: file information	Standard Additions : File Commands	2802
+utiQ	utilities folder	Property of class: application	System Events : System Events Suite	2803
+utxt	Unicode text	Class	AppleScript Language	2804
+vali	value indicator	Class	System Events : Processes Suite	2805
+vali	value indicators	Class	System Events : Processes Suite	2806
+valL	value	Property of class: attribute	System Events : Processes Suite	2811
+valL	value	Property of class: property list item	System Events : Property List Suite	2812
+valL	value	Property of class: UI element	System Events : Processes Suite	2813
+valL	value	Property of class: XML attribute	System Events : XML Suite	2814
+valL	value	Property of class: XML element	System Events : XML Suite	2815
+vcdp	video depth	Property of class: track	System Events : QuickTime File Suite	2817
+vdvd	video DVD appeared	Command	Digital Hub OSAX : Digital Hub Actions	2818
+vect	vector	Class	AppleScript Language	2819
+vect	vectors	Class	AppleScript Language	2820
+ver2	product version	Property of class: alias	System Events : Disk-Folder-File Suite	2823
+ver2	product version	Property of class: application	Finder : Finder Basics	2824
+ver2	product version	Property of class: file	Finder : Files	2825
+ver2	product version	Property of class: file	System Events : Disk-Folder-File Suite	2826
+vers	version	Class	AppleScript Language	2829
+vers	version	Enumeration	Finder : Enumerations	2830
+vers	version	Property of class: alias	System Events : Disk-Folder-File Suite	2831
+vers	version	Property of class: application	AppleScript Language	2832
+vers	version	Property of class: application	Cocoa Scripting : Standard Suite	2834
+vers	version	Property of class: application	Finder : Finder Basics	2835
+vers	version	Property of class: file	Finder : Files	2836
+vers	version	Property of class: file	System Events : Disk-Folder-File Suite	2837
+visu	visual characteristic	Property of class: track	System Events : QuickTime File Suite	2849
+vlst	volume settings	Class	Standard Additions : Miscellaneous Commands	2850
+VOIC	using	Parameter of command: say	Standard Additions : User Interaction	2851
+volu	volume	Property of class: disk item	System Events : Disk-Folder-File Suite	2853
+volu	volume	Property of class: folder action	System Events : Folder Actions Suite	2854
+vpnl	Preview panel	Enumeration	Finder : Enumerations	2855
+warN	warning	Enumeration	Standard Additions : User Interaction	2857
+warn	warns before emptying	Property of class: trash-object	Finder : Containers and folders	2858
+wed	Wednesday	Class	AppleScript Language	2864
+week	weeks	Property of class: application	AppleScript Language	2865
+wfsp	waiting until completion	Parameter of command: say	Standard Additions : User Interaction	2866
+whit	white space	Enumeration	AppleScript Language	2867
+with	with	Parameter of command: Call•subroutine	AppleScript Language	2889
+wkdy	weekday	Class	AppleScript Language	2896
+wkdy	weekday	Property of class: date	AppleScript Language	2897
+wkdy	weekdays	Class	AppleScript Language	2898
+wout	without	Parameter of command: Call•subroutine	AppleScript Language	2899
+wrat	starting at	Parameter of command: write	Standard Additions : File Read/Write	2901
+wrcd	in	Parameter of command: class info	AppleScript Language	2902
+wrcd	in	Parameter of command: event info	AppleScript Language	2903
+wrcd	in	Parameter of command: suite info	AppleScript Language	2904
+writ	write	Command	Standard Additions : File Read/Write	2905
+writ	write only	Enumeration	Finder : Enumerations	2906
+wshd	collapsed	Property of class: window	Finder : Window classes	2909
+xmla	XML attribute	Class	System Events : XML Suite	2911
+xmla	XML attributes	Class	System Events : XML Suite	2912
+xmld	XML data	Class	System Events : XML Suite	2913
+xmle	XML element	Class	System Events : XML Suite	2914
+xmle	XML elements	Class	System Events : XML Suite	2915
+xmlf	XML file	Class	System Events : XML Suite	2916
+xmlf	XML files	Class	System Events : XML Suite	2917
+yard	yards	Class	AppleScript Language	2918
+year	year	Property of class: date	AppleScript Language	2919
+yes	yes	Enumeration	AppleScript Language	2920
+yes	yes	Enumeration	Cocoa Scripting : Standard Suite	2921
+yes	yes	Enumeration	Standard Additions : Scripting Commands	2922
+ZONE	in AppleTalk zone	Parameter of command: mount volume	Standard Additions : File Commands	2923
+zumf	zoomed full size	Property of class: window	Finder : Window classes	2924
+0x00000000	stop	Enumeration	Standard Additions : User Interaction	2925
+0x00000001	note	Enumeration	Standard Additions : User Interaction	2926
+0x00000002	caution	Enumeration	Standard Additions : User Interaction	2927
+0x6b732400	return key	Enumeration	AppleScript Language	2928
+0x6b733000	tab key	Enumeration	AppleScript Language	2929
+0x6b733300	delete key	Enumeration	AppleScript Language	2930
+0x6b733500	escape key	Enumeration	AppleScript Language	2931
+0x6b734700	clear key	Enumeration	AppleScript Language	2932
+0x6b734c00	enter key	Enumeration	AppleScript Language	2933
+0x6b736000	F5 key	Enumeration	AppleScript Language	2934
+0x6b736100	F6 key	Enumeration	AppleScript Language	2935
+0x6b736200	F7 key	Enumeration	AppleScript Language	2936
+0x6b736300	F3 key	Enumeration	AppleScript Language	2937
+0x6b736400	F8 key	Enumeration	AppleScript Language	2938
+0x6b736500	F9 key	Enumeration	AppleScript Language	2939
+0x6b736700	F11 key	Enumeration	AppleScript Language	2940
+0x6b736900	F13 key	Enumeration	AppleScript Language	2941
+0x6b736b00	F14 key	Enumeration	AppleScript Language	2942
+0x6b736d00	F10 key	Enumeration	AppleScript Language	2943
+0x6b736f00	F12 key	Enumeration	AppleScript Language	2944
+0x6b737100	F15 key	Enumeration	AppleScript Language	2945
+0x6b737200	help key	Enumeration	AppleScript Language	2946
+0x6b737300	home key	Enumeration	AppleScript Language	2947
+0x6b737400	page up key	Enumeration	AppleScript Language	2948
+0x6b737500	forward del key	Enumeration	AppleScript Language	2949
+0x6b737600	F4 key	Enumeration	AppleScript Language	2950
+0x6b737700	end key	Enumeration	AppleScript Language	2951
+0x6b737800	F2 key	Enumeration	AppleScript Language	2952
+0x6b737900	page down key	Enumeration	AppleScript Language	2953
+0x6b737a00	F1 key	Enumeration	AppleScript Language	2954
+0x6b737b00	left arrow key	Enumeration	AppleScript Language	2955
+0x6b737c00	right arrow key	Enumeration	AppleScript Language	2956
+0x6b737d00	down arrow key	Enumeration	AppleScript Language	2957
+0x6b737e00	up arrow key	Enumeration	AppleScript Language	2958
