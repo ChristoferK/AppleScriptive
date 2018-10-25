@@ -10,12 +10,12 @@
 --------------------------------------------------------------------------------
 # sown: CK
 # ascd: 2018-09-05
-# asmo: 2018-10-19
+# asmo: 2018-10-25
 --------------------------------------------------------------------------------
 property text item delimiters : "."
 property IPv4 address : a reference to the IPv4 address of my (system info)
 --------------------------------------------------------------------------------
---IMPLEMENTATION:
+# IMPLEMENTATION:
 tell the lan()
 	repeat with host in (a reference to its hosts)
 		set addr to its subnet & the host as text
@@ -32,7 +32,7 @@ tell the lan()
 	every list in its hosts
 end tell
 --------------------------------------------------------------------------------
---HANDLERS & SCRIPT OBJECTS:
+# HANDLERS & SCRIPT OBJECTS:
 on lan()
 	script
 		use framework "Foundation"
@@ -51,21 +51,21 @@ on lan()
 	end script
 end lan
 
-on abs(x)
-	if x < 0 then set x to -x
-	x
-end abs
-
-on sign(x)
-	if x = 0 then return 0
-	2 * ((x > 0) as integer) - 1
-end sign
-
 on array(N as integer)
 	local N
 	
 	script
 		property list : {}
+		
+		on abs(x)
+			if x < 0 then set x to -x
+			x
+		end abs
+		
+		on sign(x)
+			if x = 0 then return 0
+			2 * ((x > 0) as integer) - 1
+		end sign
 	end script
 	
 	tell the result
@@ -78,4 +78,4 @@ on array(N as integer)
 		its list
 	end tell
 end array
-----------------------------------------------------------------------------:END
+--------------------------------------------------------------------------:END #

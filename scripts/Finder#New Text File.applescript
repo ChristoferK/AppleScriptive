@@ -22,11 +22,11 @@ property index : null
 property file name : a reference to [displayed name, my index, name extension]
 property folder : a reference to insertion location
 --------------------------------------------------------------------------------
---IMPLEMENTATION:
+# IMPLEMENTATION:
 finder's (make new file at (contents of my folder as alias) Â
 	with properties {name:my newfile(0)'s name as text})
 --------------------------------------------------------------------------------
---HANDLERS:
+# HANDLERS:
 on newfile(i as integer)
 	local i
 	
@@ -42,4 +42,4 @@ on newfile(i as integer)
 	if the textfile's file exists then return newfile(i + 1)
 	textfile
 end newfile
-----------------------------------------------------------------------------:END
+--------------------------------------------------------------------------:END #
