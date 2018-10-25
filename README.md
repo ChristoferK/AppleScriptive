@@ -21,12 +21,12 @@
 
 10.  I use AppleScript's `use` function to import an application's dictionary into the script, **if** the script is sufficiently short and primarily utilises one or two applications.  This practice won't be endorsed by many, but I am good at keeping track of terminology clashes, and utilise script objects to help separate functionally-distinct aspects of a single script.  I may also employ occasional use of _chevron syntax_ if it helps avoid using a `tell` statement and minimises command length.  A contrived example I've not actually used would be:
 ```applescript
-property Finder : application "Finder"
+    property Finder : application "Finder"
 
-«class cfol» named "Applications" of «class sdsk» of Finder
+    «class cfol» named "Applications" of «class sdsk» of Finder
 ```
 
-11.  In my final code reviews, I will try and perform code refactoring that hopefully makes the script more usable with minimal or zero requirement for edits if employed from within different environments, eg. _Automator_, _Keyboard Maestro_, _Alfred_, _FastScripts_, etc.  This is an ongoing endeavour and not necessarily achievable in all my scripts.  Some scripts may have a prefix like `[KM]` in their filename, which might suggest it only works inside _Keyboard Maestro_.  In fact, the significance of this prefix is to denote a script that operates **upon** _Keyboard Maestro_, but needn't be triggered from within _Keyboard Maestro_ (although it would generally make the most sense to do so).  Given this, one may wonder why my scripts that operate **upon** _Finder_ aren't prefixed with `[Finder]` in their filenames.  The simple answer is "just because", but the slightly extended answer is that prefixes annoy me, but this could change.
+11.  In my final code reviews, I will try and perform code refactoring that hopefully makes the script more usable with minimal or zero requirement for edits if employed from within different environments, eg. _Automator_, _Keyboard Maestro_, _Alfred_, _FastScripts_, etc.  This is an ongoing endeavour and not necessarily achievable in all my scripts.  Some scripts may have a prefix like `KM#` in their filename, which might suggest it only works inside _Keyboard Maestro_.  In fact, the significance of this prefix is to denote a script that operates **upon** _Keyboard Maestro_, but needn't be triggered from within _Keyboard Maestro_ (although it would generally make the most sense to do so).
 
 12. ?
 
