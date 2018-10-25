@@ -13,7 +13,7 @@
 
 6.  Handler names, conversely to variable names, tend to be descriptive and CamelCase, often with an initial lowercase letter, but not exclusively.  I favour AppleScript's _labelled_ parameters because it provides the only means of specifying optional parameters, but I also make use of _interleaved_ parameter labels, and also plain-and-simple parentheticals.  Quite conveniently, `myFunction:param` is essentially equivalent in AppleScript to `myFunction_(param)`, which provides versatility in syntax when desired.
 
-7.  I LIKE CODE TO LOOK GOOD.  I'm not claiming success in this just yet, but I believe that beautiful code will ultimately end up becoming functional code.  Obviously, we can all construct beautiful code that does absolutely nothing, so this isn't a law in itself, but is, in my view, a good mantra and reminder that aesthetics aid readability, solubility, and consistency.
+7.  **I like code to look good**.  I'm not claiming success in this just yet, but I believe that beautiful code will ultimately end up becoming functional code.  Obviously, we can all construct beautiful code that does absolutely nothing, so this isn't a law in itself, but is, in my view, a good mantra and reminder that aesthetics aid readability, solubility, and consistency.
 
 8.  A corollary of `(7)` is that I might prioritise aesthetics over adherence to any of the non-prime numbered rules stipulated here (including this one).  It can also lead to syntactic inconsistency in how and where I choose to divide two similar lines of code with a continuation character that appear misplaced in one versus the other.  This is rarely an oversight, but a necessary evil in order to achieve a pleasing text alignment.
 
@@ -30,4 +30,4 @@
 
 12. ?
 
-13.  I'm always open to suggestions on ways to do things that I might find more useful or meaningful in the longrun, and I am fairly adaptable in my methods given that I don't code professionally.  Therefore, comments, critiques, and tips are welcome, regardless of your own coding proficiency (I dislike unnecessary restrictions that perceived hierarchies can impose on less experienced individuals, and I apologise if I am ever an instrument of these hierarchies, at which time I hope to be made aware so I can change my habits).
+13.  I'm always open to suggestions on ways to do things that I might find more useful or meaningful in the longrun, and I am fairly adaptable in my methods given that I don't code professionally.  Therefore, comments, critiques, and tips are welcome, regardless of your own coding proficiency.
