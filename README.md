@@ -13,7 +13,7 @@
 9. I rarely prioritise speed, but I do prioritise efficiency, and wasteful code irks me. Unnecessarily inefficient code irks me. If a piece of code _will_ run faster if, say, a string is converted into a list of numbers before being operated on, then I will usually elect to do this. If a script object makes execution more efficient, I will elect to use one. However, if a piece of code is demonstrably quicker but also has to be a complete mess to preserve its speed, I am unlikely to care that a script runs slower if it ends up looking better. _Perception is Reality_.
 10. I use AppleScript's `use` function to import an application's dictionary into the script, **if** the script is sufficiently short and primarily utilises one or two applications. This practice won't be endorsed by many, but I am good at keeping track of terminology clashes, and utilise script objects to help separate functionally-distinct aspects of a single script. I may also employ occasional use of _chevron syntax_ if it helps avoid using a `tell` statement and minimises command length. A contrived example I've not actually used would be:
 
-    ```text
+    ```applescript
     property Finder : application "Finder"
 
     «class cfol» named "Applications" of «class sdsk» of Finder
