@@ -2,7 +2,7 @@
 
 ## Lib Load
 
-`./scripts/lib/load.scpt` is an AppleScript library loader that enables loading of non-compiled AppleScripts from any directory, allowing filepaths to be used that are relative to a supplied "root" directory.  `load.scpt`, itself, must remain compiled, and either it or an alias file to it should reside in the default AppleScript Library folder (`~/Library/Script Libraries/`).
+`./scripts/lib/load.scpt` is an AppleScript library loader that enables loading of non-compiled AppleScripts from any directory, allowing filepaths to be used that are relative to a `lib` folder that exists in a supplied "root" directory.  `load.scpt`, itself, must remain compiled, and either it or an alias file to it should reside in the default AppleScript Library folder (`~/Library/Script Libraries/`).
 
 To use, simply invoke it as the parent to your script, then load compiled- or non-compiled AppleScripts:
 
@@ -40,4 +40,3 @@ property _date : load script "_date"
 11. In my final code reviews, I will try and perform code refactoring that hopefully makes the script more usable with minimal or zero requirement for edits if employed from within different environments, eg. _Automator_, _Keyboard Maestro_, _Alfred_, _FastScripts_, etc. This is an ongoing endeavour and not necessarily achievable in all my scripts. Some scripts may have a prefix like `KM#` in their filename, which might suggest it only works inside _Keyboard Maestro_. In fact, the significance of this prefix is to denote a script that operates **upon** _Keyboard Maestro_, but needn't be triggered from within _Keyboard Maestro_ \(although it would generally make the most sense to do so\).
 12. ?
 13. I'm always open to suggestions on ways to do things that I might find more useful or meaningful in the longrun, and I am fairly adaptable in my methods given that I don't code professionally. Therefore, comments, critiques, and tips are welcome, regardless of your own coding proficiency.
-
