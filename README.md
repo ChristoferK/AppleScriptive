@@ -1,5 +1,23 @@
 # APPLESCRIPTIVE
 
+## Lib Load
+
+`./scripts/lib/load.scpt` is an AppleScript library loader that enables loading of non-compiled AppleScripts from any directory, allowing filepaths to be used that are relative to a supplied "root" directory.  `load.scpt`, itself, must remain compiled, and either it or an alias file to it should reside in the default AppleScript Library folder (`~/Library/Script Libraries/`).
+
+To use, simply invoke it as the parent to your script, then load compiled- or non-compiled AppleScripts:
+
+```applescript
+property parent : load script "load.scpt"
+property _date : load script "_date.applescript"
+```
+
+If no extension is supplied, `.applescript` is assumed by default.  Therefore, the above is the same as:
+
+```applescript
+property parent : load script "load.scpt"
+property _date : load script "_date"
+```
+
 ## My Coding Practices
 
 1. All lines of my code are restricted to a maximum column width of 80. I make use of continuation characters to split long lines of code over several separate lines. For me, this aids readability on a wide variety of screens, without the need to scroll horizontally. I _loathe_ scrolling horizontally.
