@@ -7,14 +7,14 @@
 To use, simply invoke it as the parent to your script, then load compiled- or non-compiled AppleScripts:
 
 ```applescript
-property parent : load script "load.scpt"
+property parent : script "load.scpt"
 property _date : load script "_date.applescript"
 ```
 
 If no extension is supplied, `.applescript` is assumed by default.  Therefore, the above is the same as:
 
 ```applescript
-property parent : load script "load.scpt"
+property parent : script "load.scpt"
 property _date : load script "_date"
 ```
 
