@@ -10,14 +10,10 @@ insert_final_newline = true
 
 # Matches multiple files with brace expansion notation
 # Set default charset
-[scripts/**.{js,py,applescript,scpt,html,css}]
+[scripts/**.{js,jxa,applescript,scpt}]
 charset = utf-16le
 indent_style = tab
 indent_size = 8
-
-# Tab indentation (no size specified)
-[Makefile]
-indent_style = tab
 
 # Indentation override for all JSON under data directory
 [data/**.{json,plist,xml}]
@@ -25,8 +21,7 @@ charset = utf-8
 indent_style = tab
 indent_size = 8
 
-
 # Matches the exact files either package.json or .travis.yml
 [{package.json,.travis.yml}]
 indent_style = space
-indent_size = 2
+indent_size = 4
