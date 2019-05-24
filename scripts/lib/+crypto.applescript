@@ -1,6 +1,6 @@
 #!/usr/bin/osascript
 --------------------------------------------------------------------------------
-# pnam: +SSL
+# pnam: +CRYPTO
 # nmxt: .applescript
 # pDSC: A library containing cryptographic and encoding functions
 --------------------------------------------------------------------------------
@@ -8,9 +8,10 @@
 # ascd: 2018-12-10
 # asmo: 2019-05-07
 --------------------------------------------------------------------------------
-property name : "+SSL"
-property id : "chri.sk.applescript:SSL"
+property name : "crypto"
+property id : "chri.sk.applescript.lib:crypto"
 property version : 1.0
+property parent: AppleScript
 --------------------------------------------------------------------------------
 use framework "Foundation"
 
@@ -26,16 +27,16 @@ property NSUTF8StringEncoding : a reference to 4
 # base64Decode()
 #   Decodes a base-64 string to UTF-8
 on base64Decode(s)
-	(NSString's alloc()'s initWithData:(NSData's alloc()'s Â
-		initWithBase64EncodedString:s options:1) Â
+	(NSString's alloc()'s initWithData:(NSData's alloc()'s Â¬
+		initWithBase64EncodedString:s options:1) Â¬
 		encoding:(NSUTF8StringEncoding)) as text
 end base64Decode
 
 # base64Encode()
 #   Encodes a string to base-64
 on base64Encode(s)
-	(((NSString's stringWithString:s)'s Â
-		dataUsingEncoding:(NSUTF8StringEncoding))'s Â
+	(((NSString's stringWithString:s)'s Â¬
+		dataUsingEncoding:(NSUTF8StringEncoding))'s Â¬
 		base64EncodedStringWithOptions:1) as text
 end base64Encode
 
