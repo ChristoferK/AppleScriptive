@@ -1,24 +1,4 @@
-# APPLESCRIPTIVE
-
-## Lib Load
-
-`./scripts/lib/load.scpt` is an AppleScript library loader that enables loading of non-compiled AppleScripts from any directory, allowing filepaths to be used that are relative to a `lib` folder that exists in a supplied "root" directory.  `load.scpt`, itself, must remain compiled, and either it or an alias file to it should reside in the default AppleScript Library folder (`~/Library/Script Libraries/`).
-
-To use, simply invoke it as the parent to your script, then load compiled- or non-compiled AppleScripts:
-
-```applescript
-property parent : script "load.scpt"
-property _date : load script "_date.applescript"
-```
-
-If no extension is supplied, `.applescript` is assumed by default.  Therefore, the above is the same as:
-
-```applescript
-property parent : script "load.scpt"
-property _date : load script "_date"
-```
-
-## My Coding Practices
+## My (AppleScript-)Coding Practices
 
 1. All lines of my code are restricted to a maximum column width of 80. I make use of continuation characters to split long lines of code over several separate lines. For me, this aids readability on a wide variety of screens, without the need to scroll horizontally. I _loathe_ scrolling horizontally.
 2. I use hard tabs of 8 character widths.
@@ -39,4 +19,12 @@ property _date : load script "_date"
 
 11. In my final code reviews, I will try and perform code refactoring that hopefully makes the script more usable with minimal or zero requirement for edits if employed from within different environments, eg. _Automator_, _Keyboard Maestro_, _Alfred_, _FastScripts_, etc. This is an ongoing endeavour and not necessarily achievable in all my scripts. Some scripts may have a prefix like `KM#` in their filename, which might suggest it only works inside _Keyboard Maestro_. In fact, the significance of this prefix is to denote a script that operates **upon** _Keyboard Maestro_, but needn't be triggered from within _Keyboard Maestro_ \(although it would generally make the most sense to do so\).
 12. ?
-13. I'm always open to suggestions on ways to do things that I might find more useful or meaningful in the longrun, and I am fairly adaptable in my methods given that I don't code professionally. Therefore, comments, critiques, and tips are welcome, regardless of your own coding proficiency.
+13. I'm always open to suggestions on ways to do things that I might find more useful, meaningful or simply interesting.  Comments, critiques, tips and questions are welcome, regardless of your own coding proficiency.  I may or may not agree with an opinion or assertion at all, or at that time, or as applied to a specific situation, but no one remembers the time they met someone who agreed with everything you said, because nothing new comes from two things being the same, and it's the people who tell you that you're wrong that ensure we keep questioning ourselves and considering the other approaches that helps us to improve.
+
+## _...And that's what I like to call being_
+
+# AppleScriptive<sup>†</sup>
+
+<hr>
+
+†<sub>This is irony, of course.</sub>
